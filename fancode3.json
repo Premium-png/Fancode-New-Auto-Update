@@ -1,51 +1,18 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "17/9/2026, 10:07:05 am",
-  "total_matches": 40,
+  "updatedAt": "17/9/2026, 1:06:30 pm",
+  "total_matches": 39,
   "live_matches": 1,
-  "upcoming_matches": 39,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "United Arab Emirates vs Malaysia [English]",
-      "tournament": "United Arab Emirates tour of Malaysia, 2026",
-      "match_id": "4249260",
+      "title": "Rwanda vs Uganda [English]",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249169",
       "status": "LIVE",
-      "startTime": "07:30:00 AM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/UAEmini.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/240p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/360p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/480p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/540p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/720p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM"
-          },
-          "cookie": "hdntl=Expires=1789696282~_GO=Generated~acl=/mumbai/4249260_english_hls_cac79d1d9320529_1ta-di_h264/*~Signature=AVl424PfNrTwEq4ERC97x7Qft1ITXQlcR5Gqg7UbFTdS9dHO8BVNCmmmF8h14QpOKhhenPG_o7iAk44_6En5pQ2wVrgM",
-          "expires": "1789696282",
-          "expire_date": ""
-        }
-      }
-    },
-    {
-      "category": "Cricket",
-      "title": "Afghanistan vs India",
-      "tournament": "India Tour of Afghanistan, 2026",
-      "match_id": "4248492",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
+      "startTime": "01:00:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -59,12 +26,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Rwanda vs Uganda",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249169",
+      "title": "Afghanistan vs India",
+      "tournament": "India Tour of Afghanistan, 2026",
+      "match_id": "4248492",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249169_53067_RWA_UGA_FC-Web.png",
+      "startTime": "07:30:00 PM 17-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -324,25 +291,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "AFC Wimbledon vs MK Dons",
-      "tournament": "League One 2026-27",
-      "match_id": "4248161",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Zimbabwe vs Australia",
       "tournament": "Australia tour of Zimbabwe, 2026",
@@ -381,6 +329,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Football",
+      "title": "AFC Wimbledon vs MK Dons",
+      "tournament": "League One 2026-27",
+      "match_id": "4248161",
+      "status": "UPCOMING",
+      "startTime": "12:30:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Cricket",
       "title": "Kenya vs Uganda",
       "tournament": "ILT20 Africa Continent Cup 2026",
@@ -406,7 +373,7 @@
       "match_id": "4249084",
       "status": "UPCOMING",
       "startTime": "07:30:00 PM 17-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open_fc-web.jpg",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -439,12 +406,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
-      "tournament": "Caribbean Premier League, 2026",
-      "match_id": "4248316",
+      "title": "Sierra Leone vs Botswana",
+      "tournament": "ILT20 Africa Continent Cup 2026",
+      "match_id": "4249172",
       "status": "UPCOMING",
-      "startTime": "05:30:00 AM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
+      "startTime": "05:00:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -458,12 +425,12 @@
     },
     {
       "category": "Cricket",
-      "title": "Sierra Leone vs Botswana",
-      "tournament": "ILT20 Africa Continent Cup 2026",
-      "match_id": "4249172",
+      "title": "Guyana Amazon Warriors vs Antigua & Barbuda Falcons",
+      "tournament": "Caribbean Premier League, 2026",
+      "match_id": "4248316",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249172_53067_SRL_BOT_FC-Web.png",
+      "startTime": "05:30:00 AM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4248296_53026_GUY_ABF_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -483,25 +450,6 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 PM 18-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Golf",
-      "title": "Day 2",
-      "tournament": "La Sella Open 2026",
-      "match_id": "4249085",
-      "status": "UPCOMING",
-      "startTime": "07:30:00 PM 18-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella-Open_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -540,6 +488,25 @@
       "status": "UPCOMING",
       "startTime": "12:30:00 AM 19-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4247634_53004_ESL_ELC_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Golf",
+      "title": "Day 2",
+      "tournament": "La Sella Open 2026",
+      "match_id": "4249085",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 18-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
