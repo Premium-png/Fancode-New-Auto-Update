@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4249250_ENG" tvg-name="DP World ILT20 Development Tournament 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249250_53070_ADK_DCD_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | DP World ILT20 Development Tournament 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249250_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4247628" tvg-name="Sevilla FC vs FC Barcelona (LALIGA 2026-27) (UNKNOWN)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png" tvg-language="UNKNOWN" group-title="Cricket",UNK | Sevilla FC vs FC Barcelona (LALIGA 2026-27)
-https://allinonereborn2.online/fctest/playlists/match_4247628/unknown.m3u8
 #EXTINF:-1 tvg-id="4249150_ENG" tvg-name="LALIGA Hypermotion 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249150_53017_CDZ_GIR_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | LALIGA Hypermotion 2026-27 [English]
 https://allinonereborn2.online/fctest/playlists/match_4249150_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4247628" tvg-name="Sevilla FC vs FC Barcelona (LALIGA 2026-27) (UNKNOWN)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247628_53004_SEV_BAR_FC-Web.png" tvg-language="UNKNOWN" group-title="Cricket",UNK | Sevilla FC vs FC Barcelona (LALIGA 2026-27)
+https://allinonereborn2.online/fctest/playlists/match_4247628/unknown.m3u8
