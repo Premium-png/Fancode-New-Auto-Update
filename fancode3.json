@@ -1,28 +1,74 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "20/9/2026, 7:48:49 am",
-  "total_matches": 39,
-  "live_matches": 0,
-  "upcoming_matches": 39,
+  "updatedAt": "20/9/2026, 12:09:08 pm",
+  "total_matches": 40,
+  "live_matches": 2,
+  "upcoming_matches": 38,
   "matches": [
     {
       "category": "Cricket",
-      "title": "Western Australia vs Tasmania",
+      "title": "Western Australia vs Tasmania [English]",
       "tournament": "One Day Cup, 2026/27",
       "match_id": "4249273",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "startTime": "11:30:00 AM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249273_53072_WAU_TAS_FC-Web.jpg",
       "language": "ENGLISH",
       "streams": {
-        "primary": "",
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
         "fancode_cdn": "",
         "fancode_bd_cdn": "",
         "fancode_np_cdn": "",
         "fancode_lk_cdn": "",
         "backup": {}
       },
-      "auto_streams": {}
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/240p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/360p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/480p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/540p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/720p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC"
+          },
+          "cookie": "hdntl=Expires=1789969519~_GO=Generated~acl=/mumbai/4249273_english_hls_e3fab9836423381_1ta-di_h264/*~Signature=AVl424MEdBRYASO0UeIXfMeqvhh2NbYZwcVdunczZsmCJBwo4t5LwQ8HDNYHTiAMagp1J_8vDEscl1S9LdfhnSHuzKcC",
+          "expires": "1789969519",
+          "expire_date": ""
+        }
+      }
+    },
+    {
+      "category": "MotoGP",
+      "title": "Race [English]",
+      "tournament": "GRAND PRIX OF AUSTRIA 2026",
+      "match_id": "139971",
+      "status": "LIVE",
+      "startTime": "02:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "1080p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_1080p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "720p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_720p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "540p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_540p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "360p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_360p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+            "216p": "https://in-mc-flive.fancode.com/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/index_216p.m3u8?hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD"
+          },
+          "cookie": "hdntl=Expires=1789972549~_GO=Generated~acl=/s3/274c26be-8147-4aa9-bd18-4deed9dd6ca4/*~Signature=AVl424PUBTOg5OJncWjK3bqkBk6q63kHZwQOWP5j_QgOrE5_0Dd6AmK4QukEmoc8Km7IDPHAQ7ENW6-C3lAJ4m_DVjgD",
+          "expires": "1789972549",
+          "expire_date": ""
+        }
+      }
     },
     {
       "category": "Cricket",
@@ -120,13 +166,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Atletico de Madrid vs Real Madrid",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247637",
+      "category": "Cricket",
+      "title": "Sharjah Warriorz Development vs MI Emirates Development",
+      "tournament": "DP World ILT20 Development Tournament 2026",
+      "match_id": "4249252",
       "status": "UPCOMING",
-      "startTime": "07:45:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
+      "startTime": "10:30:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -139,13 +185,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sharjah Warriorz Development vs MI Emirates Development",
-      "tournament": "DP World ILT20 Development Tournament 2026",
-      "match_id": "4249252",
+      "category": "Football",
+      "title": "Atletico de Madrid vs Real Madrid",
+      "tournament": "LALIGA 2026-27",
+      "match_id": "4247637",
       "status": "UPCOMING",
-      "startTime": "10:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249252_53070_SWD_MED_FC-Web.png",
+      "startTime": "07:45:00 PM 20-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247637_53004_ATM_RM_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -310,32 +356,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Motorsports",
-      "title": "Race 2",
-      "tournament": "Ferrari Challenge Series 2026",
-      "match_id": "4249216",
+      "category": "Cricket",
+      "title": "Keonjhar Miners vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249572",
       "status": "UPCOMING",
-      "startTime": "10:50:00 AM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Sydney-old.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "MotoGP",
-      "title": "Race",
-      "tournament": "GRAND PRIX OF AUSTRIA 2026",
-      "match_id": "139971",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 20-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Austria_Web.jpg",
+      "startTime": "02:30:00 PM 21-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -374,25 +401,6 @@
       "status": "UPCOMING",
       "startTime": "10:30:00 PM 20-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Keonjhar Miners vs Bhubaneshwar Tigers",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249572",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 21-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -519,13 +527,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Football",
-      "title": "Mohammedan SC vs East Bengal FC",
-      "tournament": "IFA Shield 2026",
-      "match_id": "4249522",
+      "category": "Cricket",
+      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249575",
       "status": "UPCOMING",
-      "startTime": "03:00:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+      "startTime": "07:30:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -538,13 +546,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Sambalpur Warriors vs Bhubaneshwar Tigers",
-      "tournament": "Odisha Pro T20 League 2026",
-      "match_id": "4249575",
+      "category": "Football",
+      "title": "Mohammedan SC vs East Bengal FC",
+      "tournament": "IFA Shield 2026",
+      "match_id": "4249522",
       "status": "UPCOMING",
-      "startTime": "07:30:00 PM 22-09-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "startTime": "03:00:00 PM 22-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -709,6 +717,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Rourkela Superstars vs Puri Titans",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249576",
+      "status": "UPCOMING",
+      "startTime": "02:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Tennis",
       "title": "ATP 250 - Chengdu Open 2026",
       "tournament": "ATP 250 - Chengdu Open 2026",
@@ -735,6 +762,25 @@
       "status": "UPCOMING",
       "startTime": "09:00:00 AM 23-09-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bhubaneshwar Tigers vs Kataka Panthers",
+      "tournament": "Odisha Pro T20 League 2026",
+      "match_id": "4249577",
+      "status": "UPCOMING",
+      "startTime": "07:30:00 PM 23-09-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
