@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:55:02 PM 21-09-2026",
-    "generated_at": "2026-09-21 16:40:05",
+    "source_last_updated": "11:56:15 PM 21-09-2026",
+    "generated_at": "2026-09-21 18:40:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 39,
-    "live_matches_count": 2,
+    "total_matches": 38,
+    "live_matches_count": 1,
     "upcoming_matches_count": 37,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249573_ENG",
-            "title": "Odisha Pro T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors [English]",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "LIVE",
-            "startTime": "07:30:00 PM 21-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249573_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": "4249253_ENG",
@@ -114,16 +95,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249522,
-            "title": "Mohammedan SC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohammedan SC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Mohammedan SC",
-            "team_2": "East Bengal FC",
+            "event_category": "Cricket",
+            "match_id": 4249255,
+            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
-            "startTime": "03:00:00 PM 22-09-2026",
+            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -150,19 +131,6 @@
             "team_2": "BK Häcken Women",
             "status": "UPCOMING",
             "startTime": "10:15:00 PM 22-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249255,
-            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -259,12 +227,12 @@
         {
             "event_category": "Football",
             "match_id": 4249525,
-            "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giant vs Sreenidi Deccan FC",
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
             "event_name": "IFA Shield 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Sreenidi Deccan FC",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
             "status": "UPCOMING",
             "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
@@ -410,6 +378,19 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249522,
+            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 24-09-2026",
             "user-agent": null
         },
         {
@@ -533,25 +514,6 @@
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249573_ENG",
-            "title": "Odisha Pro T20 League 2026 [English]",
-            "match_name": "Rourkela Superstars vs Sambalpur Warriors [English]",
-            "event_name": "Odisha Pro T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249573_53080_ROR_SAW_fc-web_1789983232781.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Sambalpur Warriors",
-            "status": "LIVE",
-            "startTime": "07:30:00 PM 21-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249573_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
             "match_id": "4249253_ENG",
             "title": "DP World ILT20 Development Tournament 2026 [English]",
             "match_name": "Dubai Capitals Development vs Desert Vipers Development [English]",
@@ -637,16 +599,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249522,
-            "title": "Mohammedan SC vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohammedan SC vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Mohammedan SC",
-            "team_2": "East Bengal FC",
+            "event_category": "Cricket",
+            "match_id": 4249255,
+            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
+            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
+            "event_name": "DP World ILT20 Development Tournament 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
+            "team_1": "Sharjah Warriorz Development",
+            "team_2": "Abu Dhabi Knight Riders Development",
             "status": "UPCOMING",
-            "startTime": "03:00:00 PM 22-09-2026",
+            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -673,19 +635,6 @@
             "team_2": "BK Häcken Women",
             "status": "UPCOMING",
             "startTime": "10:15:00 PM 22-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249255,
-            "title": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development (DP World ILT20 Development Tournament 2026)",
-            "match_name": "Sharjah Warriorz Development vs Abu Dhabi Knight Riders Development",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249255_53070_SWD_ADK_FC-Web.png",
-            "team_1": "Sharjah Warriorz Development",
-            "team_2": "Abu Dhabi Knight Riders Development",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 PM 22-09-2026",
             "user-agent": null
         },
         {
@@ -782,12 +731,12 @@
         {
             "event_category": "Football",
             "match_id": 4249525,
-            "title": "Mohun Bagan Super Giant vs Sreenidi Deccan FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giant vs Sreenidi Deccan FC",
+            "title": "Sreenidi Deccan FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "Sreenidi Deccan FC vs Mohun Bagan Super Giant",
             "event_name": "IFA Shield 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
-            "team_1": "Mohun Bagan Super Giant",
-            "team_2": "Sreenidi Deccan FC",
+            "team_1": "Sreenidi Deccan FC",
+            "team_2": "Mohun Bagan Super Giant",
             "status": "UPCOMING",
             "startTime": "03:00:00 PM 23-09-2026",
             "user-agent": null
@@ -933,6 +882,19 @@
             "team_2": "Baku",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 24-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249522,
+            "title": "Calcutta Customs Club vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_IFA.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 24-09-2026",
             "user-agent": null
         },
         {
