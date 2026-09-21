@@ -2,33 +2,14 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:56:15 PM 21-09-2026",
-    "generated_at": "2026-09-21 18:40:06",
+    "source_last_updated": "02:07:42 AM 22-09-2026",
+    "generated_at": "2026-09-21 20:40:06",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 37,
+    "live_matches_count": 0,
+    "upcoming_matches_count": 38,
     "matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249253_ENG",
-            "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "Dubai Capitals Development vs Desert Vipers Development [English]",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "Desert Vipers Development",
-            "status": "LIVE",
-            "startTime": "08:30:00 PM 21-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249253_ENG/english.m3u8"
-                }
-            ]
-        },
         {
             "event_category": "Cricket",
             "match_id": 4249214,
@@ -509,29 +490,22 @@
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 25-09-2026",
             "user-agent": null
-        }
-    ],
-    "live_matches": [
+        },
         {
-            "event_category": "Cricket",
-            "match_id": "4249253_ENG",
-            "title": "DP World ILT20 Development Tournament 2026 [English]",
-            "match_name": "Dubai Capitals Development vs Desert Vipers Development [English]",
-            "event_name": "DP World ILT20 Development Tournament 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249253_53070_DCD_DVD_FC-Web.png",
-            "team_1": "Dubai Capitals Development",
-            "team_2": "Desert Vipers Development",
-            "status": "LIVE",
-            "startTime": "08:30:00 PM 21-09-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249253_ENG/english.m3u8"
-                }
-            ]
+            "event_category": "Tennis",
+            "match_id": 4248546,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 25-09-2026",
+            "user-agent": null
         }
     ],
+    "live_matches": [],
     "upcoming_matches": [
         {
             "event_category": "Cricket",
@@ -1010,6 +984,19 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
             "team_1": "ATP 250 - Chengdu Open 2026",
             "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 25-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248546,
+            "title": "ATP 250 - Hangzhou Open 2026 vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "ATP 250 - Hangzhou Open 2026",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "ATP 250 - Hangzhou Open 2026",
+            "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 25-09-2026",
             "user-agent": null
