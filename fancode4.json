@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "05:39:35 AM 26-09-2026",
-    "generated_at": "2026-09-26 00:10:13",
+    "source_last_updated": "10:12:14 AM 26-09-2026",
+    "generated_at": "2026-09-26 04:55:07",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -16,7 +16,7 @@
             "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Sambalpur Warriors",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/OD.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
@@ -73,6 +73,19 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249574,
+            "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 27-09-2026",
             "user-agent": null
         },
         {
@@ -141,19 +154,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249574,
-            "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Kataka Panthers",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248540,
             "title": "Day 4 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -177,6 +177,45 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "11:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249299,
+            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Noida Ninjas vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+            "team_1": "Noida Ninjas",
+            "team_2": "Faridabad Firebirds",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249779,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249585,
+            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Keonjhar Miners",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Keonjhar Miners",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -220,45 +259,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249299,
-            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249779,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249585,
-            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Keonjhar Miners",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Keonjhar Miners",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249302,
             "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Capital Cruisers vs Ghaziabad Giants",
@@ -268,6 +268,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249523,
+            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -294,19 +307,6 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249523,
-            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs Punjab FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "Punjab FC",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -539,7 +539,7 @@
             "title": "Rourkela Superstars vs Sambalpur Warriors (Odisha T20 League 2026)",
             "match_name": "Rourkela Superstars vs Sambalpur Warriors",
             "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Odisha-Pro-T20_FC-WEB.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/OD.jpg",
             "team_1": "Rourkela Superstars",
             "team_2": "Sambalpur Warriors",
             "status": "UPCOMING",
@@ -596,6 +596,19 @@
             "team_2": "Bhubaneshwar Tigers",
             "status": "UPCOMING",
             "startTime": "07:30:00 PM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249574,
+            "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
+            "match_name": "Puri Titans vs Kataka Panthers",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
+            "team_1": "Puri Titans",
+            "team_2": "Kataka Panthers",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 27-09-2026",
             "user-agent": null
         },
         {
@@ -664,19 +677,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249574,
-            "title": "Puri Titans vs Kataka Panthers (Odisha T20 League 2026)",
-            "match_name": "Puri Titans vs Kataka Panthers",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249574_53080_PUT_CUT_fc-web_1790170352051.jpg",
-            "team_1": "Puri Titans",
-            "team_2": "Kataka Panthers",
-            "status": "UPCOMING",
-            "startTime": "10:30:00 AM 27-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248540,
             "title": "Day 4 vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
@@ -700,6 +700,45 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "11:00:00 AM 26-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249299,
+            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Noida Ninjas vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
+            "team_1": "Noida Ninjas",
+            "team_2": "Faridabad Firebirds",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249779,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249585,
+            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
+            "match_name": "Rourkela Superstars vs Keonjhar Miners",
+            "event_name": "Odisha T20 League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
+            "team_1": "Rourkela Superstars",
+            "team_2": "Keonjhar Miners",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -743,45 +782,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249299,
-            "title": "Noida Ninjas vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Noida Ninjas vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249299_53073_NNJ_FFI_fc-web.jpg",
-            "team_1": "Noida Ninjas",
-            "team_2": "Faridabad Firebirds",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249779,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249585,
-            "title": "Rourkela Superstars vs Keonjhar Miners (Odisha T20 League 2026)",
-            "match_name": "Rourkela Superstars vs Keonjhar Miners",
-            "event_name": "Odisha T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249585_53080_ROR_KNM_fc-web_1790170352074.jpg",
-            "team_1": "Rourkela Superstars",
-            "team_2": "Keonjhar Miners",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249302,
             "title": "Capital Cruisers vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Capital Cruisers vs Ghaziabad Giants",
@@ -791,6 +791,19 @@
             "team_2": "Ghaziabad Giants",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 27-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249523,
+            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
+            "match_name": "Calcutta Customs Club vs Punjab FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "Calcutta Customs Club",
+            "team_2": "Punjab FC",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
@@ -817,19 +830,6 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 27-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249523,
-            "title": "Calcutta Customs Club vs Punjab FC (IFA Shield 2026)",
-            "match_name": "Calcutta Customs Club vs Punjab FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "Calcutta Customs Club",
-            "team_2": "Punjab FC",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 27-09-2026",
             "user-agent": null
         },
         {
