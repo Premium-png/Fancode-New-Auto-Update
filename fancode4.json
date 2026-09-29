@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "05:00:42 AM 29-09-2026",
-    "generated_at": "2026-09-28 23:35:09",
+    "source_last_updated": "08:22:36 AM 29-09-2026",
+    "generated_at": "2026-09-29 03:00:04",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -122,6 +122,19 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249811,
+            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Brampton Blitz",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250040,
             "title": "Kolhan King vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Chaibasa Challengers",
@@ -174,15 +187,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249811,
-            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "match_id": 4249812,
+            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
             "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
-            "team_1": "White Rock Warriors",
-            "team_2": "Brampton Blitz",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Toronto Sixers",
             "status": "UPCOMING",
-            "startTime": "04:30:00 AM 30-09-2026",
+            "startTime": "07:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
@@ -199,19 +212,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249527,
-            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "NorthEast United FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 29-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249829,
             "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
@@ -225,42 +225,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249812,
-            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Toronto Sixers",
+            "event_category": "Football",
+            "match_id": 4249527,
+            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "NorthEast United FC",
+            "team_2": "Mohun Bagan Super Giant",
             "status": "UPCOMING",
-            "startTime": "07:15:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248543,
-            "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Final",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248550,
-            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 29-09-2026",
+            "startTime": "02:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -303,6 +277,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Tennis",
+            "match_id": 4248543,
+            "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Final",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Final",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248550,
+            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Final",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Final",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250042,
             "title": "Kolhan King vs Manoharpur Lions (West Singhbhum T20 League 2026)",
@@ -313,6 +313,32 @@
             "team_2": "Manoharpur Lions",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249296,
+            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249780,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 30-09-2026",
             "user-agent": null
         },
         {
@@ -365,32 +391,6 @@
             "team_2": "Tokyo, Japan",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249296,
-            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249780,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 30-09-2026",
             "user-agent": null
         },
         {
@@ -652,6 +652,19 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249811,
+            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
+            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "event_name": "Canada Super 60, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
+            "team_1": "White Rock Warriors",
+            "team_2": "Brampton Blitz",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 AM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250040,
             "title": "Kolhan King vs Chaibasa Challengers (West Singhbhum T20 League 2026)",
             "match_name": "Kolhan King vs Chaibasa Challengers",
@@ -704,15 +717,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249811,
-            "title": "White Rock Warriors vs Brampton Blitz (Canada Super 60, 2026)",
-            "match_name": "White Rock Warriors vs Brampton Blitz",
+            "match_id": 4249812,
+            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
+            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
             "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249811_53099_WRW_BBZ_FC-Web.png",
-            "team_1": "White Rock Warriors",
-            "team_2": "Brampton Blitz",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
+            "team_1": "Montreal Royal Tigers",
+            "team_2": "Toronto Sixers",
             "status": "UPCOMING",
-            "startTime": "04:30:00 AM 30-09-2026",
+            "startTime": "07:15:00 AM 30-09-2026",
             "user-agent": null
         },
         {
@@ -729,19 +742,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249527,
-            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
-            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
-            "team_1": "NorthEast United FC",
-            "team_2": "Mohun Bagan Super Giant",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 29-09-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4249829,
             "title": "Toronto Sixers Women vs Vancouver Warriors Women (Canada Super 60 Women, 2026)",
@@ -755,42 +755,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249812,
-            "title": "Montreal Royal Tigers vs Toronto Sixers (Canada Super 60, 2026)",
-            "match_name": "Montreal Royal Tigers vs Toronto Sixers",
-            "event_name": "Canada Super 60, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249812_53099_MRT_TTS_FC-Web.png",
-            "team_1": "Montreal Royal Tigers",
-            "team_2": "Toronto Sixers",
+            "event_category": "Football",
+            "match_id": 4249527,
+            "title": "NorthEast United FC vs Mohun Bagan Super Giant (IFA Shield 2026)",
+            "match_name": "NorthEast United FC vs Mohun Bagan Super Giant",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/MM.png",
+            "team_1": "NorthEast United FC",
+            "team_2": "Mohun Bagan Super Giant",
             "status": "UPCOMING",
-            "startTime": "07:15:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248543,
-            "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Chengdu Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
-            "team_1": "Final",
-            "team_2": "Chengdu, China",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 29-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248550,
-            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
-            "match_name": "Final",
-            "event_name": "ATP 250 - Hangzhou Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
-            "team_1": "Final",
-            "team_2": "Hangzhou, China",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 29-09-2026",
+            "startTime": "02:30:00 PM 29-09-2026",
             "user-agent": null
         },
         {
@@ -833,6 +807,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Tennis",
+            "match_id": 4248543,
+            "title": "Final vs Chengdu, China (ATP 250 - Chengdu Open 2026)",
+            "match_name": "Final",
+            "event_name": "ATP 250 - Chengdu Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web.png",
+            "team_1": "Final",
+            "team_2": "Chengdu, China",
+            "status": "UPCOMING",
+            "startTime": "04:30:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248550,
+            "title": "Final vs Hangzhou, China (ATP 250 - Hangzhou Open 2026)",
+            "match_name": "Final",
+            "event_name": "ATP 250 - Hangzhou Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-Hangzhou_fc-web.jpg",
+            "team_1": "Final",
+            "team_2": "Hangzhou, China",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 29-09-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250042,
             "title": "Kolhan King vs Manoharpur Lions (West Singhbhum T20 League 2026)",
@@ -843,6 +843,32 @@
             "team_2": "Manoharpur Lions",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249296,
+            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
+            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
+            "event_name": "NCR T20 League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
+            "team_1": "Yamuna Warriors",
+            "team_2": "Ghaziabad Giants",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 30-09-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249780,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 30-09-2026",
             "user-agent": null
         },
         {
@@ -895,32 +921,6 @@
             "team_2": "Tokyo, Japan",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249296,
-            "title": "Yamuna Warriors vs Ghaziabad Giants (NCR T20 League, 2026)",
-            "match_name": "Yamuna Warriors vs Ghaziabad Giants",
-            "event_name": "NCR T20 League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg",
-            "team_1": "Yamuna Warriors",
-            "team_2": "Ghaziabad Giants",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 30-09-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249780,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 30-09-2026",
             "user-agent": null
         },
         {
