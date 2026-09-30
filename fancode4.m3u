@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4249296_ENG" tvg-name="NCR T20 League, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249296_53073_YAW_GGT_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | NCR T20 League, 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249296_ENG/english.m3u8
 #EXTINF:-1 tvg-id="4249780_ENG" tvg-name="Australia tour of South Africa, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png" tvg-language="English" group-title="Cricket",ENG | Australia tour of South Africa, 2026 [English]
 https://allinonereborn2.online/fctest/playlists/match_4249780_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249587_ENG" tvg-name="Odisha T20 League 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/53080_KNM_SAW_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Odisha T20 League 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249587_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4250065_ENG" tvg-name="Emirates D10, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250065_53103_ABD_DUB_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Emirates D10, 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4250065_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4250067_ENG" tvg-name="Emirates D10, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250085_53103_ABD_EMR_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Emirates D10, 2026 [English]
+https://allinonereborn2.online/fctest/playlists/match_4250067_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4249477_ENG" tvg-name="UEFA Women's Champions League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249477_53078_ROM-W_BAR-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | UEFA Women's Champions League 2026-27 [English]
+https://allinonereborn2.online/fctest/playlists/match_4249477_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4249478" tvg-name="BK Häcken Women vs Juventus Women (UEFA Women's Champions League 2026-27) (UNKNOWN)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249478_53078_BKH-W_JUV-W_fc-web.jpg" tvg-language="UNKNOWN" group-title="Cricket",UNK | BK Häcken Women vs Juventus Women (UEFA Women's Champions League 2026-27)
+https://allinonereborn2.online/fctest/playlists/match_4249478/unknown.m3u8
+#EXTINF:-1 tvg-id="4249479_ENG" tvg-name="UEFA Women's Champions League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249479_53078_PFC-W_ARS-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | UEFA Women's Champions League 2026-27 [English]
+https://allinonereborn2.online/fctest/playlists/match_4249479_ENG/english.m3u8
