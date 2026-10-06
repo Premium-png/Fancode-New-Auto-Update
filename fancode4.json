@@ -2,8 +2,8 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "03:39:33 AM 06-10-2026",
-    "generated_at": "2026-10-05 22:15:34",
+    "source_last_updated": "07:41:45 AM 06-10-2026",
+    "generated_at": "2026-10-06 02:20:11",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
@@ -12,34 +12,34 @@
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249657_ENG",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "United Arab Emirates vs USA [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "USA",
+            "match_id": "4249721_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Thailand vs Qatar [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Thailand",
+            "team_2": "Qatar",
             "status": "LIVE",
-            "startTime": "08:30:00 PM 05-10-2026",
+            "startTime": "06:45:00 AM 06-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249657_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249721_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249721,
-            "title": "Qatar vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Qatar vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Qatar",
-            "team_2": "Thailand",
+            "match_id": 4249662,
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
             "status": "UPCOMING",
-            "startTime": "06:45:00 AM 06-10-2026",
+            "startTime": "05:00:00 AM 07-10-2026",
             "user-agent": null
         },
         {
@@ -147,19 +147,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249662,
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 07-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248571,
             "title": "Doubles Final vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
@@ -251,6 +238,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249658,
+            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs Namibia",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+            "team_1": "USA",
+            "team_2": "Namibia",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 07-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250089,
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 07-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248809,
             "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
@@ -300,32 +313,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249658,
-            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs Namibia",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250089,
-            "title": "Ajman vs Dubai (Emirates D10, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -535,25 +522,38 @@
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 08-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248814,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 08-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249657_ENG",
-            "title": "ICC CWC League 2 USA, 2026 [English]",
-            "match_name": "United Arab Emirates vs USA [English]",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249657_53086_USA_UAE_fc-web.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "USA",
+            "match_id": "4249721_ENG",
+            "title": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026 [English]",
+            "match_name": "Thailand vs Qatar [English]",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
+            "team_1": "Thailand",
+            "team_2": "Qatar",
             "status": "LIVE",
-            "startTime": "08:30:00 PM 05-10-2026",
+            "startTime": "06:45:00 AM 06-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249657_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249721_ENG/english.m3u8"
                 }
             ]
         }
@@ -561,15 +561,15 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249721,
-            "title": "Qatar vs Thailand (ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026)",
-            "match_name": "Qatar vs Thailand",
-            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier A, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web1.png",
-            "team_1": "Qatar",
-            "team_2": "Thailand",
+            "match_id": 4249662,
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
             "status": "UPCOMING",
-            "startTime": "06:45:00 AM 06-10-2026",
+            "startTime": "05:00:00 AM 07-10-2026",
             "user-agent": null
         },
         {
@@ -677,19 +677,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249662,
-            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
-            "match_name": "Victoria vs South Australia",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 07-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4248571,
             "title": "Doubles Final vs Tokyo, Japan (ATP 500 - Kinoshita Group Japan Open 2026)",
@@ -781,6 +768,32 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249658,
+            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
+            "match_name": "USA vs Namibia",
+            "event_name": "ICC CWC League 2 USA, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
+            "team_1": "USA",
+            "team_2": "Namibia",
+            "status": "UPCOMING",
+            "startTime": "08:30:00 PM 07-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250089,
+            "title": "Ajman vs Dubai (Emirates D10, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 07-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4248809,
             "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
@@ -830,32 +843,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249658,
-            "title": "USA vs Namibia (ICC CWC League 2 USA, 2026)",
-            "match_name": "USA vs Namibia",
-            "event_name": "ICC CWC League 2 USA, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249658_53086_USA_NAM_fc-web.png",
-            "team_1": "USA",
-            "team_2": "Namibia",
-            "status": "UPCOMING",
-            "startTime": "08:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250089,
-            "title": "Ajman vs Dubai (Emirates D10, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250089_53103_AJM_DUB_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -1056,6 +1043,19 @@
         {
             "event_category": "Tennis",
             "match_id": 4248813,
+            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
+            "match_name": "ATP Masters - Rolex Shanghai Masters",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Tennis-old.jpg",
+            "team_1": "ATP Masters - Rolex Shanghai Masters",
+            "team_2": "Shanghai, China",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4248814,
             "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
             "match_name": "ATP Masters - Rolex Shanghai Masters",
             "event_name": "ATP Masters - Rolex Shanghai Masters",
