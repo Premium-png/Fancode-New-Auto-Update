@@ -1,43 +1,10 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "6/10/2026, 9:20:53 pm",
+  "updatedAt": "7/10/2026, 1:47:05 am",
   "total_matches": 40,
-  "live_matches": 1,
-  "upcoming_matches": 39,
+  "live_matches": 0,
+  "upcoming_matches": 40,
   "matches": [
-    {
-      "category": "Cricket",
-      "title": "Fujairah vs Sharjah [English]",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250086",
-      "status": "LIVE",
-      "startTime": "09:00:00 PM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250086_53103_SHA_FUJ_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {
-        "ENGLISH": {
-          "streams": {
-            "240p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/240p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-            "360p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/360p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-            "480p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/480p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-            "540p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/540p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-            "720p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/720p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-            "1080p": "https://in-mc-flive.fancode.com/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI"
-          },
-          "cookie": "hdntl=Expires=1791386407~_GO=Generated~acl=/mumbai/4250086_english_hls_eea7e048c144705_1ta-di_h264/*~Signature=AXZsC1ABC0oFVtUi-hWwYKwBfAduhweqUdtpN94x_1VO5Tklp-atcZd1WHJ3ksjrXlsmMlcUi8a2Oq3TauhbOa37fbwI",
-          "expires": "1791386407",
-          "expire_date": ""
-        }
-      }
-    },
     {
       "category": "Cricket",
       "title": "Victoria vs South Australia",
@@ -78,25 +45,6 @@
     },
     {
       "category": "Cricket",
-      "title": "Abu Dhabi vs Emirates Blues",
-      "tournament": "Emirates D10, 2026",
-      "match_id": "4250087",
-      "status": "UPCOMING",
-      "startTime": "11:15:00 PM 06-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250087_53103_ABD_EMB_FC-WEB.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
       "title": "USA vs Namibia",
       "tournament": "ICC CWC League 2 USA, 2026",
       "match_id": "4249658",
@@ -116,12 +64,12 @@
     },
     {
       "category": "Cricket",
-      "title": "TBC vs TBC",
-      "tournament": "West Singhbhum T20 League 2026",
-      "match_id": "4250055",
+      "title": "England Champions vs West Indies Champions",
+      "tournament": "World Championship of Legends, 2026",
+      "match_id": "4249233",
       "status": "UPCOMING",
-      "startTime": "01:00:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
+      "startTime": "09:00:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -135,12 +83,12 @@
     },
     {
       "category": "Cricket",
-      "title": "England Champions vs West Indies Champions",
-      "tournament": "World Championship of Legends, 2026",
-      "match_id": "4249233",
+      "title": "Manoharpur Lions vs Jaganathpur Tiger",
+      "tournament": "West Singhbhum T20 League 2026",
+      "match_id": "4250055",
       "status": "UPCOMING",
-      "startTime": "09:00:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249233_53069_EDC_WIC_FC-Web_1790764440785.png",
+      "startTime": "12:30:00 PM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -229,82 +177,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248809",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248810",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248811",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "ATP Masters - Rolex Shanghai Masters",
-      "tournament": "ATP Masters - Rolex Shanghai Masters",
-      "match_id": "4248812",
-      "status": "UPCOMING",
-      "startTime": "01:30:00 PM 07-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "",
-        "fancode_bd_cdn": "",
-        "fancode_np_cdn": "",
-        "fancode_lk_cdn": "",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "New South Wales vs Tasmania",
       "tournament": "Sheffield Shield, 2026/27",
@@ -312,6 +184,82 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 AM 08-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249663_53087_NSW_TAS_FC-WEB_1791296057796.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "World Feed",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248809",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Grandstand 2",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248811",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Show Court 3",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248812",
+      "status": "UPCOMING",
+      "startTime": "09:30:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Tennis",
+      "title": "Stadium Court",
+      "tournament": "ATP Masters - Rolex Shanghai Masters",
+      "match_id": "4248810",
+      "status": "UPCOMING",
+      "startTime": "11:00:00 AM 07-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -768,6 +716,44 @@
       "status": "UPCOMING",
       "startTime": "01:00:00 PM 09-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Malaysia vs Saudi Arabia",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+      "match_id": "4249742",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "",
+        "fancode_bd_cdn": "",
+        "fancode_np_cdn": "",
+        "fancode_lk_cdn": "",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "China vs Hong Kong, China",
+      "tournament": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+      "match_id": "4249743",
+      "status": "UPCOMING",
+      "startTime": "11:30:00 AM 09-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
