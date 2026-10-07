@@ -2,30 +2,68 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:09:22 AM 07-10-2026",
-    "generated_at": "2026-10-07 05:45:41",
+    "source_last_updated": "05:23:54 PM 07-10-2026",
+    "generated_at": "2026-10-07 12:00:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 40,
-    "live_matches_count": 5,
+    "total_matches": 41,
+    "live_matches_count": 6,
     "upcoming_matches_count": 35,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249662_ENG",
-            "title": "Sheffield Shield, 2026/27 [English]",
-            "match_name": "Victoria vs South Australia [English]",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
+            "match_id": "4249224_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Australia Champions vs Bangladesh Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
+            "team_1": "Australia Champions",
+            "team_2": "Bangladesh Champions",
             "status": "LIVE",
-            "startTime": "05:00:00 AM 07-10-2026",
+            "startTime": "05:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249662_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249224_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249224_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Australia Champions vs Bangladesh Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
+            "team_1": "Australia Champions",
+            "team_2": "Bangladesh Champions",
+            "status": "LIVE",
+            "startTime": "05:00:00 PM 07-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249224_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250088,
+            "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
+            "match_name": "Fujairah vs Abu Dhabi",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
+            "team_1": "Fujairah",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 07-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "UNKNOWN",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250088/unknown.m3u8"
                 }
             ]
         },
@@ -69,25 +107,6 @@
         },
         {
             "event_category": "Tennis",
-            "match_id": "4248812_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248812_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
             "match_id": "4248810_ENG",
             "title": "ATP Masters - Rolex Shanghai Masters [English]",
             "match_name": "Stadium Court [English]",
@@ -107,15 +126,15 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249224,
-            "title": "Australia Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Bangladesh Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
-            "team_1": "Australia Champions",
-            "team_2": "Bangladesh Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 07-10-2026",
+            "match_id": 4249662,
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "startTime": "05:00:00 AM 07-10-2026",
             "user-agent": null
         },
         {
@@ -168,32 +187,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250055,
-            "title": "Manoharpur Lions vs Jaganathpur Tiger (West Singhbhum T20 League 2026)",
-            "match_name": "Manoharpur Lions vs Jaganathpur Tiger",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Jaganathpur Tiger",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250088,
-            "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -314,6 +307,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250092,
+            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250092_53103_EMB_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249605,
+            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250093,
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Golf",
             "match_id": 4249774,
             "title": "Day 1 - World Feed vs Yokohama Country Club - Yokohama, Japan (Baycurrent Classic 2026)",
@@ -337,19 +369,6 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "10:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250092,
-            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250092_53103_EMB_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -415,32 +434,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249605,
-            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
-            "team_1": "Mohun Bagan Super Giants",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250093,
-            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -522,6 +515,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249781,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139975,
             "title": "Day 1 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -536,19 +542,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249781,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249742,
             "title": "Malaysia vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
             "match_name": "Malaysia vs Saudi Arabia",
@@ -559,25 +552,89 @@
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 09-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249743,
+            "title": "China vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249744,
+            "title": "Maldives vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Maldives vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
+            "team_1": "Maldives",
+            "team_2": "Singapore",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4249662_ENG",
-            "title": "Sheffield Shield, 2026/27 [English]",
-            "match_name": "Victoria vs South Australia [English]",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
-            "team_1": "Victoria",
-            "team_2": "South Australia",
+            "match_id": "4249224_ENG",
+            "title": "World Championship of Legends, 2026 [English]",
+            "match_name": "Australia Champions vs Bangladesh Champions [English]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
+            "team_1": "Australia Champions",
+            "team_2": "Bangladesh Champions",
             "status": "LIVE",
-            "startTime": "05:00:00 AM 07-10-2026",
+            "startTime": "05:00:00 PM 07-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249662_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249224_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4249224_HIN",
+            "title": "World Championship of Legends, 2026 [Hindi]",
+            "match_name": "Australia Champions vs Bangladesh Champions [Hindi]",
+            "event_name": "World Championship of Legends, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
+            "team_1": "Australia Champions",
+            "team_2": "Bangladesh Champions",
+            "status": "LIVE",
+            "startTime": "05:00:00 PM 07-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "Hindi",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249224_HIN/hindi.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250088,
+            "title": "Fujairah vs Abu Dhabi (Emirates D10, 2026)",
+            "match_name": "Fujairah vs Abu Dhabi",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
+            "team_1": "Fujairah",
+            "team_2": "Abu Dhabi",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 07-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "UNKNOWN",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250088/unknown.m3u8"
                 }
             ]
         },
@@ -616,25 +673,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248811_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4248812_ENG",
-            "title": "ATP Masters - Rolex Shanghai Masters [English]",
-            "match_name": "Show Court 3 [English]",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Show Court 3",
-            "team_2": "Shanghai, China",
-            "status": "LIVE",
-            "startTime": "09:30:00 AM 07-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248812_ENG/english.m3u8"
                 }
             ]
         },
@@ -661,15 +699,15 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249224,
-            "title": "Australia Champions vs Bangladesh Champions (World Championship of Legends, 2026)",
-            "match_name": "Australia Champions vs Bangladesh Champions",
-            "event_name": "World Championship of Legends, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249224_53069_AAC_BGC_FC-Web_1790764440661.png",
-            "team_1": "Australia Champions",
-            "team_2": "Bangladesh Champions",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 07-10-2026",
+            "match_id": 4249662,
+            "title": "Victoria vs South Australia (Sheffield Shield, 2026/27)",
+            "match_name": "Victoria vs South Australia",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249662_53087_VCT_SAU_FC-WEB_1791295174023.jpg",
+            "team_1": "Victoria",
+            "team_2": "South Australia",
+            "status": "PAUSED",
+            "startTime": "05:00:00 AM 07-10-2026",
             "user-agent": null
         },
         {
@@ -722,32 +760,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "08:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250055,
-            "title": "Manoharpur Lions vs Jaganathpur Tiger (West Singhbhum T20 League 2026)",
-            "match_name": "Manoharpur Lions vs Jaganathpur Tiger",
-            "event_name": "West Singhbhum T20 League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Singhbhum-T20_2026_FC-WEB.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Jaganathpur Tiger",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 PM 07-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250088,
-            "title": "Abu Dhabi vs Fujairah (Emirates D10, 2026)",
-            "match_name": "Abu Dhabi vs Fujairah",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250088_53103_ABD_FUJ_FC-WEB.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Fujairah",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 07-10-2026",
             "user-agent": null
         },
         {
@@ -868,6 +880,45 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250092,
+            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
+            "match_name": "Emirates Blues vs Dubai",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250092_53103_EMB_DUB_FC-WEB.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "06:45:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249605,
+            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
+            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
+            "event_name": "IFA Shield 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
+            "team_1": "Mohun Bagan Super Giants",
+            "team_2": "East Bengal FC",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250093,
+            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
+            "match_name": "Ajman vs Emirates Red",
+            "event_name": "Emirates D10, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
+            "team_1": "Ajman",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 PM 08-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Golf",
             "match_id": 4249774,
             "title": "Day 1 - World Feed vs Yokohama Country Club - Yokohama, Japan (Baycurrent Classic 2026)",
@@ -891,19 +942,6 @@
             "team_2": "New Korea Country Club",
             "status": "UPCOMING",
             "startTime": "10:00:00 AM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250092,
-            "title": "Emirates Blues vs Dubai (Emirates D10, 2026)",
-            "match_name": "Emirates Blues vs Dubai",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250092_53103_EMB_DUB_FC-WEB.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "06:45:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -969,32 +1007,6 @@
             "team_2": "Shanghai, China",
             "status": "UPCOMING",
             "startTime": "01:30:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249605,
-            "title": "Mohun Bagan Super Giants vs East Bengal FC (IFA Shield 2026)",
-            "match_name": "Mohun Bagan Super Giants vs East Bengal FC",
-            "event_name": "IFA Shield 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/IFA_Shield_FC-Web.png",
-            "team_1": "Mohun Bagan Super Giants",
-            "team_2": "East Bengal FC",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 08-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250093,
-            "title": "Ajman vs Emirates Red (Emirates D10, 2026)",
-            "match_name": "Ajman vs Emirates Red",
-            "event_name": "Emirates D10, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250093_53103_AJM_EMR_FC-WEB.jpg",
-            "team_1": "Ajman",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 PM 08-10-2026",
             "user-agent": null
         },
         {
@@ -1076,6 +1088,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249781,
+            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
+            "match_name": "South Africa vs Australia",
+            "event_name": "Australia tour of South Africa, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
+            "team_1": "South Africa",
+            "team_2": "Australia",
+            "status": "UPCOMING",
+            "startTime": "01:00:00 PM 09-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "MotoGP",
             "match_id": 139975,
             "title": "Day 1 vs Mandalika (PERTAMINA GRAND PRIX OF INDONESIA 2026)",
@@ -1090,19 +1115,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249781,
-            "title": "South Africa vs Australia (Australia tour of South Africa, 2026)",
-            "match_name": "South Africa vs Australia",
-            "event_name": "Australia tour of South Africa, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
-            "team_1": "South Africa",
-            "team_2": "Australia",
-            "status": "UPCOMING",
-            "startTime": "01:00:00 PM 09-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249742,
             "title": "Malaysia vs Saudi Arabia (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
             "match_name": "Malaysia vs Saudi Arabia",
@@ -1110,6 +1122,32 @@
             "image": "https://www.fancode.com/skillup-uploads/cms-media/4249742_53092_MAS_SDA_fc-web.jpg",
             "team_1": "Malaysia",
             "team_2": "Saudi Arabia",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249743,
+            "title": "China vs Hong Kong, China (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "China vs Hong Kong, China",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249743_53092_CHN_HK_fc-web.jpg",
+            "team_1": "China",
+            "team_2": "Hong Kong, China",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 09-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249744,
+            "title": "Maldives vs Singapore (ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026)",
+            "match_name": "Maldives vs Singapore",
+            "event_name": "ICC Men's T20 WC Asia Sub-regional Qualifier B, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249744_53092_MDV_SIN_fc-web.jpg",
+            "team_1": "Maldives",
+            "team_2": "Singapore",
             "status": "UPCOMING",
             "startTime": "11:30:00 AM 09-10-2026",
             "user-agent": null
