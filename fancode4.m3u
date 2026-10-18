@@ -1,19 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4249782_ENG" tvg-name="Australia tour of South Africa, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png" tvg-language="English" group-title="Cricket",ENG | Australia tour of South Africa, 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249782_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4250212_ENG" tvg-name="Jersey tour of Uganda A 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Jersey-tour-of-Uganda-A-2026_Web_1080_x_810.jpg" tvg-language="English" group-title="Cricket",ENG | Jersey tour of Uganda A 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4250212_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4250233_ENG" tvg-name="GSL Championship 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250226_53117_DCC_THCC_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | GSL Championship 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4250233_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249194_ENG" tvg-name="Barclays Women's Super League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249194_53038_AST-W_LIV-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Barclays Women's Super League 2026-27 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249194_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249195_ENG" tvg-name="Barclays Women's Super League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249195_53038_CHL-W_MUN-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Barclays Women's Super League 2026-27 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249195_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249198_ENG" tvg-name="Barclays Women's Super League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249198_53038_LCL_EVE-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Barclays Women's Super League 2026-27 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249198_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249199_ENG" tvg-name="Barclays Women's Super League 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249199_53038_MCI-W_BHA-W_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | Barclays Women's Super League 2026-27 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249199_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4249997_ENG" tvg-name="LALIGA Hypermotion 2026-27 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249997_53017_GRD_CDZ_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | LALIGA Hypermotion 2026-27 [English]
-https://allinonereborn2.online/fctest/playlists/match_4249997_ENG/english.m3u8
-#EXTINF:-1 tvg-id="4250148_ENG" tvg-name="BWF Super 750 - Denmark Open 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png" tvg-language="English" group-title="Cricket",ENG | BWF Super 750 - Denmark Open 2026 [English]
-https://allinonereborn2.online/fctest/playlists/match_4250148_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4249230_ENG" tvg-name="World Championship of Legends, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png" tvg-language="English" group-title="Cricket",ENG | World Championship of Legends, 2026 [English]
+https://allinonereborn2.online/fctest/playlists/match_4249230_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4249230_HIN" tvg-name="World Championship of Legends, 2026 [Hindi] (Hindi)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WCL_web-match-card.png" tvg-language="Hindi" group-title="Cricket",HIN | World Championship of Legends, 2026 [Hindi]
+https://allinonereborn2.online/fctest/playlists/match_4249230_HIN/hindi.m3u8
