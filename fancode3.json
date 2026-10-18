@@ -1,9 +1,9 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "18/10/2026, 10:01:49 pm",
-  "total_matches": 38,
+  "updatedAt": "19/10/2026, 12:14:54 am",
+  "total_matches": 37,
   "live_matches": 1,
-  "upcoming_matches": 37,
+  "upcoming_matches": 36,
   "matches": [
     {
       "category": "Cricket",
@@ -154,63 +154,6 @@
       "status": "UPCOMING",
       "startTime": "05:00:00 PM 19-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249695_53089_AFG_ZIM_FC-Web_1792056447809.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Seattle Thunders Women vs Hurricanes Women",
-      "tournament": "Atlanta Open Women's T20 2026",
-      "match_id": "4250195",
-      "status": "UPCOMING",
-      "startTime": "11:00:00 PM 18-10-2026",
-      "image": "https://images.fancode.com/aig/match/v1792331212633/4250195_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Atlanta Fire vs Prime Raider Gladiators",
-      "tournament": "Atlanta Open T20 2026",
-      "match_id": "4250186",
-      "status": "UPCOMING",
-      "startTime": "11:45:00 PM 18-10-2026",
-      "image": "https://images.fancode.com/aig/match/v1792331158328/4250186_CASACARDS_APP.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Football",
-      "title": "Real Madrid vs Sevilla FC",
-      "tournament": "LALIGA 2026-27",
-      "match_id": "4247651",
-      "status": "UPCOMING",
-      "startTime": "12:30:00 AM 19-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4247651_53004_RM_SEV_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -742,6 +685,44 @@
       "match_id": "4250478",
       "status": "UPCOMING",
       "startTime": "06:00:00 PM 21-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Badminton",
+      "title": "Court 1 - Round 32",
+      "tournament": "BWF Super 750 - French Open 2026",
+      "match_id": "4250153",
+      "status": "UPCOMING",
+      "startTime": "01:30:00 PM 21-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Default_Badminton-old.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Zambia vs Nigeria",
+      "tournament": "ICC Men's T20 WC Africa Sub-regional Qualifier C, 2026",
+      "match_id": "4249759",
+      "status": "UPCOMING",
+      "startTime": "06:30:00 PM 21-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
       "language": "ENGLISH",
       "streams": {
