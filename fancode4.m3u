@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="4249697_ENG" tvg-name="Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249697_53089_AFG_ZIM_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | Afghanistan, Bangladesh & Zimbabwe Tri Series, 2026 [English]
 https://allinonereborn2.online/fctest/playlists/match_4249697_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4250483_ENG" tvg-name="Emirates D20, 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250483_53130_EMB_ABD_fc-web_1792412930142.jpg" tvg-language="English" group-title="Cricket",ENG | Emirates D20, 2026 [English]
+https://allinonereborn2.online/fctest/playlists/match_4250483_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4250267_ENG" tvg-name="Roshn Saudi League 2026-2027 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250267_53025_ITT_DIR_FC-Web.png" tvg-language="English" group-title="Cricket",ENG | Roshn Saudi League 2026-2027 [English]
+https://allinonereborn2.online/fctest/playlists/match_4250267_ENG/english.m3u8
 #EXTINF:-1 tvg-id="4249611_ENG" tvg-name="ATP 250 - Almaty Open 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-Web_1792479545067.png" tvg-language="English" group-title="Cricket",ENG | ATP 250 - Almaty Open 2026 [English]
 https://allinonereborn2.online/fctest/playlists/match_4249611_ENG/english.m3u8
 #EXTINF:-1 tvg-id="4250156_ENG" tvg-name="BWF Super 750 - French Open 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg" tvg-language="English" group-title="Cricket",ENG | BWF Super 750 - French Open 2026 [English]
@@ -11,3 +15,5 @@ https://allinonereborn2.online/fctest/playlists/match_4250157_ENG/english.m3u8
 https://allinonereborn2.online/fctest/playlists/match_4249618_ENG/english.m3u8
 #EXTINF:-1 tvg-id="4249625_ENG" tvg-name="ATP 250 - BNP Paribas Fortis European Open [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BNP-Paribas-Fortis-European-Open_fc-web.jpg" tvg-language="English" group-title="Cricket",ENG | ATP 250 - BNP Paribas Fortis European Open [English]
 https://allinonereborn2.online/fctest/playlists/match_4249625_ENG/english.m3u8
+#EXTINF:-1 tvg-id="4250352_ENG" tvg-name="Butterfield Bermuda Championship 2026 [English] (English)" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png" tvg-language="English" group-title="Cricket",ENG | Butterfield Bermuda Championship 2026 [English]
+https://allinonereborn2.online/fctest/playlists/match_4250352_ENG/english.m3u8
