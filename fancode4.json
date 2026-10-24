@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "09:53:30 PM 24-10-2026",
-    "generated_at": "2026-10-24 16:40:09",
+    "source_last_updated": "11:46:09 PM 24-10-2026",
+    "generated_at": "2026-10-24 18:45:08",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 38,
-    "live_matches_count": 7,
-    "upcoming_matches_count": 31,
+    "live_matches_count": 5,
+    "upcoming_matches_count": 33,
     "matches": [
         {
             "event_category": "Cricket",
@@ -26,25 +26,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250485_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4250108_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Leganes vs RCD Mallorca [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "RCD Mallorca",
-            "status": "LIVE",
-            "startTime": "07:45:00 PM 24-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250108_ENG/english.m3u8"
                 }
             ]
         },
@@ -83,25 +64,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250158_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249619_ENG",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Lyon, France",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 24-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249619_ENG/english.m3u8"
                 }
             ]
         },
@@ -183,6 +145,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4247659,
+            "title": "Atletico de Madrid vs Deportivo de La Coruna (LALIGA 2026-27)",
+            "match_name": "Atletico de Madrid vs Deportivo de La Coruna",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Deportivo de La Coruna",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 25-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250486,
             "title": "Emirates Red vs Emirates Blues (Emirates D20, 2026)",
@@ -197,15 +172,28 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247659,
-            "title": "Atletico de Madrid vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Atletico de Madrid vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Deportivo de La Coruna",
+            "match_id": 4250109,
+            "title": "Almería vs Real Oviedo (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Real Oviedo",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Real Oviedo",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250487,
+            "title": "Ajman vs Dubai (Emirates D20, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -232,32 +220,6 @@
             "team_2": "Zambia",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250487,
-            "title": "Ajman vs Dubai (Emirates D20, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250109,
-            "title": "Almería vs Real Oviedo (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Real Oviedo",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Real Oviedo",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 25-10-2026",
             "user-agent": null
         },
         {
@@ -327,6 +289,19 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4247663,
+            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
+            "match_name": "Real Sociedad vs Levante",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4249203,
             "title": "Birmingham City F.C. Women vs Charlton Athletic F.C Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Charlton Athletic F.C Women",
@@ -366,28 +341,28 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247663,
-            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Levante",
+            "match_id": 4247666,
+            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Real Madrid",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Levante",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Madrid",
             "status": "UPCOMING",
-            "startTime": "11:00:00 PM 25-10-2026",
+            "startTime": "01:30:00 AM 26-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139504,
-            "title": "Practice 3 vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
-            "match_name": "Practice 3",
-            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
-            "team_1": "Practice 3",
-            "team_2": "Circuit of the Americas",
+            "event_category": "Football",
+            "match_id": 4249206,
+            "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Manchester City Women",
             "status": "UPCOMING",
-            "startTime": "11:00:00 PM 24-10-2026",
+            "startTime": "11:30:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -469,32 +444,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247666,
-            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249206,
-            "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Manchester City Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Manchester City Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4249613,
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -545,6 +494,45 @@
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 25-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250354,
+            "title": "Day 4 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139699,
+            "title": "Feature Race vs Austin (F1 ACADEMY AUSTIN 2026)",
+            "match_name": "Feature Race",
+            "event_name": "F1 ACADEMY AUSTIN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Austin",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139506,
+            "title": "Race vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
+            "match_name": "Race",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+            "team_1": "Race",
+            "team_2": "Circuit of the Americas",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 26-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -564,25 +552,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250485_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4250108_ENG",
-            "title": "LALIGA Hypermotion 2026-27 [English]",
-            "match_name": "Leganes vs RCD Mallorca [English]",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250108_53017_LEG_MRC_FC-Web.png",
-            "team_1": "Leganes",
-            "team_2": "RCD Mallorca",
-            "status": "LIVE",
-            "startTime": "07:45:00 PM 24-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250108_ENG/english.m3u8"
                 }
             ]
         },
@@ -621,25 +590,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250158_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249619_ENG",
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Lyon, France",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 24-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249619_ENG/english.m3u8"
                 }
             ]
         },
@@ -723,6 +673,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Football",
+            "match_id": 4247659,
+            "title": "Atletico de Madrid vs Deportivo de La Coruna (LALIGA 2026-27)",
+            "match_name": "Atletico de Madrid vs Deportivo de La Coruna",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
+            "team_1": "Atletico de Madrid",
+            "team_2": "Deportivo de La Coruna",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 AM 25-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250486,
             "title": "Emirates Red vs Emirates Blues (Emirates D20, 2026)",
@@ -737,15 +700,28 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247659,
-            "title": "Atletico de Madrid vs Deportivo de La Coruna (LALIGA 2026-27)",
-            "match_name": "Atletico de Madrid vs Deportivo de La Coruna",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247659_53004_ATM_COR_FC-Web.png",
-            "team_1": "Atletico de Madrid",
-            "team_2": "Deportivo de La Coruna",
+            "match_id": 4250109,
+            "title": "Almería vs Real Oviedo (LALIGA Hypermotion 2026-27)",
+            "match_name": "Almería vs Real Oviedo",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",
+            "team_1": "Almería",
+            "team_2": "Real Oviedo",
             "status": "UPCOMING",
             "startTime": "12:30:00 AM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250487,
+            "title": "Ajman vs Dubai (Emirates D20, 2026)",
+            "match_name": "Ajman vs Dubai",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
+            "team_1": "Ajman",
+            "team_2": "Dubai",
+            "status": "UPCOMING",
+            "startTime": "10:00:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -772,32 +748,6 @@
             "team_2": "Zambia",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250487,
-            "title": "Ajman vs Dubai (Emirates D20, 2026)",
-            "match_name": "Ajman vs Dubai",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
-            "team_1": "Ajman",
-            "team_2": "Dubai",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250109,
-            "title": "Almería vs Real Oviedo (LALIGA Hypermotion 2026-27)",
-            "match_name": "Almería vs Real Oviedo",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250109_53017_ALM_RO_FC-Web.png",
-            "team_1": "Almería",
-            "team_2": "Real Oviedo",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 25-10-2026",
             "user-agent": null
         },
         {
@@ -867,6 +817,19 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4247663,
+            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
+            "match_name": "Real Sociedad vs Levante",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
+            "team_1": "Real Sociedad",
+            "team_2": "Levante",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4249203,
             "title": "Birmingham City F.C. Women vs Charlton Athletic F.C Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Charlton Athletic F.C Women",
@@ -906,28 +869,28 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247663,
-            "title": "Real Sociedad vs Levante (LALIGA 2026-27)",
-            "match_name": "Real Sociedad vs Levante",
+            "match_id": 4247666,
+            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Real Madrid",
             "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247663_53004_RS_LET_FC-Web.png",
-            "team_1": "Real Sociedad",
-            "team_2": "Levante",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Real Madrid",
             "status": "UPCOMING",
-            "startTime": "11:00:00 PM 25-10-2026",
+            "startTime": "01:30:00 AM 26-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139504,
-            "title": "Practice 3 vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
-            "match_name": "Practice 3",
-            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
-            "team_1": "Practice 3",
-            "team_2": "Circuit of the Americas",
+            "event_category": "Football",
+            "match_id": 4249206,
+            "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Manchester United Women vs Manchester City Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
+            "team_1": "Manchester United Women",
+            "team_2": "Manchester City Women",
             "status": "UPCOMING",
-            "startTime": "11:00:00 PM 24-10-2026",
+            "startTime": "11:30:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -1009,32 +972,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247666,
-            "title": "FC Barcelona vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "FC Barcelona vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247666_53004_BAR_RM_FC-Web.png",
-            "team_1": "FC Barcelona",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249206,
-            "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Manchester United Women vs Manchester City Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249206_53038_MUN-W_MCI-W_fc-web.jpg",
-            "team_1": "Manchester United Women",
-            "team_2": "Manchester City Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Tennis",
             "match_id": 4249613,
             "title": "ATP 250 - Almaty Open 2026 vs Almaty, Kazakhstan (ATP 250 - Almaty Open 2026)",
@@ -1084,6 +1021,45 @@
             "team_2": "France",
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250354,
+            "title": "Day 4 - World Feed vs Port Royal Golf Course - Southampton, Bermuda (Butterfield Bermuda Championship 2026)",
+            "match_name": "Day 4 - World Feed",
+            "event_name": "Butterfield Bermuda Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Butterfield-bermuda-golf_Web-match-card.png",
+            "team_1": "Day 4 - World Feed",
+            "team_2": "Port Royal Golf Course - Southampton, Bermuda",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139699,
+            "title": "Feature Race vs Austin (F1 ACADEMY AUSTIN 2026)",
+            "match_name": "Feature Race",
+            "event_name": "F1 ACADEMY AUSTIN 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/F2_Canada_web_1792770153782.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Austin",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139506,
+            "title": "Race vs Circuit of the Americas (F1 MSC CRUISES UNITED STATES GRAND PRIX 2026)",
+            "match_name": "Race",
+            "event_name": "F1 MSC CRUISES UNITED STATES GRAND PRIX 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Old_Match_Card1.png",
+            "team_1": "Race",
+            "team_2": "Circuit of the Americas",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 26-10-2026",
             "user-agent": null
         }
     ]
