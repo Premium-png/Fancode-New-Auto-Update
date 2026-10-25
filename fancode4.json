@@ -2,71 +2,89 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "06:54:28 AM 25-10-2026",
-    "generated_at": "2026-10-25 01:30:40",
+    "source_last_updated": "12:07:35 PM 25-10-2026",
+    "generated_at": "2026-10-25 06:40:13",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 1,
-    "upcoming_matches_count": 39,
+    "live_matches_count": 4,
+    "upcoming_matches_count": 36,
     "matches": [
         {
-            "event_category": "MotoGP",
-            "match_id": "139980_ENG",
-            "title": "GRAND PRIX OF AUSTRALIA 2026 [English]",
-            "match_name": "Race Day [English]",
-            "event_name": "GRAND PRIX OF AUSTRALIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-            "team_1": "Race Day",
-            "team_2": "Phillip Island",
+            "event_category": "Cricket",
+            "match_id": "4250516_ENG",
+            "title": "ICC CWC League 2 UAE, 2026 [English]",
+            "match_name": "United Arab Emirates vs Netherlands [English]",
+            "event_name": "ICC CWC League 2 UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Netherlands",
             "status": "LIVE",
-            "startTime": "03:30:00 AM 25-10-2026",
+            "startTime": "11:00:00 AM 25-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139980_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250516_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250516,
-            "title": "United Arab Emirates vs Netherlands (ICC CWC League 2 UAE, 2026)",
-            "match_name": "United Arab Emirates vs Netherlands",
-            "event_name": "ICC CWC League 2 UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250341,
-            "title": "Jersey vs Kenya (ICC CWC Challenge League A 2026)",
-            "match_name": "Jersey vs Kenya",
+            "match_id": "4250341_ENG",
+            "title": "ICC CWC Challenge League A 2026 [English]",
+            "match_name": "Jersey vs Kenya [English]",
             "event_name": "ICC CWC Challenge League A 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
             "team_1": "Jersey",
             "team_2": "Kenya",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "12:15:00 PM 25-10-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250341_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250342,
-            "title": "Denmark vs Papua New Guinea (ICC CWC Challenge League A 2026)",
-            "match_name": "Denmark vs Papua New Guinea",
+            "match_id": "4250342_ENG",
+            "title": "ICC CWC Challenge League A 2026 [English]",
+            "match_name": "Denmark vs Papua New Guinea [English]",
             "event_name": "ICC CWC Challenge League A 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
             "team_1": "Denmark",
             "team_2": "Papua New Guinea",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "12:15:00 PM 25-10-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250342_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250528_ENG",
+            "title": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026 [English]",
+            "match_name": "Race Day [English]",
+            "event_name": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
+            "team_1": "Race Day",
+            "team_2": "Kari Motor Speedway, Coimbatore",
+            "status": "LIVE",
+            "startTime": "09:30:00 AM 25-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250528_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -252,19 +270,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249844,
-            "title": "Wellington Phoenix vs Central Coast Mariners (A-League 2026-27)",
-            "match_name": "Wellington Phoenix vs Central Coast Mariners",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249844_53101_WEL_CCM_fc-Web_1792223292135.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249206,
             "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
             "match_name": "Manchester United Women vs Manchester City Women",
@@ -277,29 +282,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249845,
-            "title": "Sydney FC vs Adelaide United (A-League 2026-27)",
-            "match_name": "Sydney FC vs Adelaide United",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Adelaide United",
+            "event_category": "Cricket",
+            "match_id": 4250529,
+            "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
+            "match_name": "Delhi Dynamites vs Haryana Hustlers",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Delhi Dynamites",
+            "team_2": "Haryana Hustlers",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 25-10-2026",
+            "startTime": "10:00:00 AM 26-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4250528,
-            "title": "Race Day vs Kari Motor Speedway, Coimbatore (JK Tyre Motorsport 2026)",
-            "match_name": "Race Day",
-            "event_name": "JK Tyre Motorsport 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-            "team_1": "Race Day",
-            "team_2": "Kari Motor Speedway, Coimbatore",
+            "event_category": "Cricket",
+            "match_id": 4250355,
+            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
+            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250355_53124_LBL_SPR_fc-Web.jpg",
+            "team_1": "Lumbini Lions",
+            "team_2": "Sudurpaschim Royals",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 25-10-2026",
+            "startTime": "04:45:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -316,29 +321,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4249620,
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "team_2": "Lyon, France",
+            "event_category": "Badminton",
+            "match_id": 4250159,
+            "title": "Young vs PV Sindhu vs France (BWF Super 750 - French Open 2026)",
+            "match_name": "Young vs PV Sindhu",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg",
+            "team_1": "Young vs PV Sindhu",
+            "team_2": "France",
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 25-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250159,
-            "title": "Finals vs France (BWF Super 750 - French Open 2026)",
-            "match_name": "Finals",
-            "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-            "team_1": "Finals",
-            "team_2": "France",
+            "event_category": "Tennis",
+            "match_id": 4249620,
+            "title": "Day 7 - World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "Day 7 - World Feed",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "Day 7 - World Feed",
+            "team_2": "Lyon, France",
             "status": "UPCOMING",
-            "startTime": "03:30:00 PM 25-10-2026",
+            "startTime": "07:00:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -352,6 +357,19 @@
             "team_2": "Brussels, Belgium",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250488,
+            "title": "Abu Dhabi vs Emirates Red (Emirates D20, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Red",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -395,32 +413,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250529,
-            "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
-            "match_name": "Delhi Dynamites vs Haryana Hustlers",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Delhi Dynamites",
-            "team_2": "Haryana Hustlers",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 AM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250355,
-            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
-            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250355_53124_LBL_SPR_fc-Web.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
-            "startTime": "04:45:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250530,
             "title": "Uttrakhand Stars vs Chandigarh Chargers (Northern Artist Champions League 2026)",
             "match_name": "Uttrakhand Stars vs Chandigarh Chargers",
@@ -430,19 +422,6 @@
             "team_2": "Chandigarh Chargers",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250488,
-            "title": "Abu Dhabi vs Emirates Red (Emirates D20, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Red",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -460,19 +439,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250531,
-            "title": "Himachal Highlenders vs Punjab Warriors (Northern Artist Champions League 2026)",
-            "match_name": "Himachal Highlenders vs Punjab Warriors",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Himachal Highlenders",
-            "team_2": "Punjab Warriors",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250489,
             "title": "Emirates Blues vs Sharjah (Emirates D20, 2026)",
             "match_name": "Emirates Blues vs Sharjah",
@@ -482,6 +448,19 @@
             "team_2": "Sharjah",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250531,
+            "title": "Himachal Highlenders vs Punjab Warriors (Northern Artist Champions League 2026)",
+            "match_name": "Himachal Highlenders vs Punjab Warriors",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Himachal Highlenders",
+            "team_2": "Punjab Warriors",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -535,25 +514,121 @@
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 26-10-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248713,
+            "title": "Al-Ahli Saudi FC vs Al Gharafa (AFC Champions League Elite 2026-27)",
+            "match_name": "Al-Ahli Saudi FC vs Al Gharafa",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248713_53053_AAS_AGH_fc-web_1792670285275.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al Gharafa",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248714,
+            "title": "Al Ain vs Tractor (AFC Champions League Elite 2026-27)",
+            "match_name": "Al Ain vs Tractor",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248714_53053_AAI_TFC_fc-web.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Tractor",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248715,
+            "title": "Air Force SC vs Pakhtakor Tashkent (AFC Champions League Elite 2026-27)",
+            "match_name": "Air Force SC vs Pakhtakor Tashkent",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248715_53053_AFSC_PT_fc-web.jpg",
+            "team_1": "Air Force SC",
+            "team_2": "Pakhtakor Tashkent",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 26-10-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
         {
-            "event_category": "MotoGP",
-            "match_id": "139980_ENG",
-            "title": "GRAND PRIX OF AUSTRALIA 2026 [English]",
-            "match_name": "Race Day [English]",
-            "event_name": "GRAND PRIX OF AUSTRALIA 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Australiaold-match-card.png",
-            "team_1": "Race Day",
-            "team_2": "Phillip Island",
+            "event_category": "Cricket",
+            "match_id": "4250516_ENG",
+            "title": "ICC CWC League 2 UAE, 2026 [English]",
+            "match_name": "United Arab Emirates vs Netherlands [English]",
+            "event_name": "ICC CWC League 2 UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
+            "team_1": "United Arab Emirates",
+            "team_2": "Netherlands",
             "status": "LIVE",
-            "startTime": "03:30:00 AM 25-10-2026",
+            "startTime": "11:00:00 AM 25-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_139980_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250516_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250341_ENG",
+            "title": "ICC CWC Challenge League A 2026 [English]",
+            "match_name": "Jersey vs Kenya [English]",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+            "team_1": "Jersey",
+            "team_2": "Kenya",
+            "status": "LIVE",
+            "startTime": "12:15:00 PM 25-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250341_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250342_ENG",
+            "title": "ICC CWC Challenge League A 2026 [English]",
+            "match_name": "Denmark vs Papua New Guinea [English]",
+            "event_name": "ICC CWC Challenge League A 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+            "team_1": "Denmark",
+            "team_2": "Papua New Guinea",
+            "status": "LIVE",
+            "startTime": "12:15:00 PM 25-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250342_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": "4250528_ENG",
+            "title": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026 [English]",
+            "match_name": "Race Day [English]",
+            "event_name": "CTR-JK Tyre FMSCI Indian National Car Racing Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
+            "team_1": "Race Day",
+            "team_2": "Kari Motor Speedway, Coimbatore",
+            "status": "LIVE",
+            "startTime": "09:30:00 AM 25-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250528_ENG/english.m3u8"
                 }
             ]
         }
@@ -561,45 +636,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4250516,
-            "title": "United Arab Emirates vs Netherlands (ICC CWC League 2 UAE, 2026)",
-            "match_name": "United Arab Emirates vs Netherlands",
-            "event_name": "ICC CWC League 2 UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
-            "team_1": "United Arab Emirates",
-            "team_2": "Netherlands",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250341,
-            "title": "Jersey vs Kenya (ICC CWC Challenge League A 2026)",
-            "match_name": "Jersey vs Kenya",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Jersey",
-            "team_2": "Kenya",
-            "status": "UPCOMING",
-            "startTime": "12:15:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250342,
-            "title": "Denmark vs Papua New Guinea (ICC CWC Challenge League A 2026)",
-            "match_name": "Denmark vs Papua New Guinea",
-            "event_name": "ICC CWC Challenge League A 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
-            "team_1": "Denmark",
-            "team_2": "Papua New Guinea",
-            "status": "UPCOMING",
-            "startTime": "12:15:00 PM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250486,
             "title": "Emirates Red vs Emirates Blues (Emirates D20, 2026)",
             "match_name": "Emirates Red vs Emirates Blues",
@@ -782,19 +818,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249844,
-            "title": "Wellington Phoenix vs Central Coast Mariners (A-League 2026-27)",
-            "match_name": "Wellington Phoenix vs Central Coast Mariners",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249844_53101_WEL_CCM_fc-Web_1792223292135.jpg",
-            "team_1": "Wellington Phoenix",
-            "team_2": "Central Coast Mariners",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 25-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249206,
             "title": "Manchester United Women vs Manchester City Women (Barclays Women's Super League 2026-27)",
             "match_name": "Manchester United Women vs Manchester City Women",
@@ -807,29 +830,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249845,
-            "title": "Sydney FC vs Adelaide United (A-League 2026-27)",
-            "match_name": "Sydney FC vs Adelaide United",
-            "event_name": "A-League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249845_53101_SYD_ADL_fc-Web_1792223294286.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Adelaide United",
+            "event_category": "Cricket",
+            "match_id": 4250529,
+            "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
+            "match_name": "Delhi Dynamites vs Haryana Hustlers",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Delhi Dynamites",
+            "team_2": "Haryana Hustlers",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 25-10-2026",
+            "startTime": "10:00:00 AM 26-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Motorsports",
-            "match_id": 4250528,
-            "title": "Race Day vs Kari Motor Speedway, Coimbatore (JK Tyre Motorsport 2026)",
-            "match_name": "Race Day",
-            "event_name": "JK Tyre Motorsport 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/JK-Tyre-_Web-match-card.png",
-            "team_1": "Race Day",
-            "team_2": "Kari Motor Speedway, Coimbatore",
+            "event_category": "Cricket",
+            "match_id": 4250355,
+            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
+            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250355_53124_LBL_SPR_fc-Web.jpg",
+            "team_1": "Lumbini Lions",
+            "team_2": "Sudurpaschim Royals",
             "status": "UPCOMING",
-            "startTime": "09:30:00 AM 25-10-2026",
+            "startTime": "04:45:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -846,29 +869,29 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4249620,
-            "title": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026 vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
-            "match_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
-            "team_1": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
-            "team_2": "Lyon, France",
+            "event_category": "Badminton",
+            "match_id": 4250159,
+            "title": "Young vs PV Sindhu vs France (BWF Super 750 - French Open 2026)",
+            "match_name": "Young vs PV Sindhu",
+            "event_name": "BWF Super 750 - French Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/An_Se_Young_PV_Sindhu_FC-App-V2_FC-WEB.jpg",
+            "team_1": "Young vs PV Sindhu",
+            "team_2": "France",
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 25-10-2026",
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250159,
-            "title": "Finals vs France (BWF Super 750 - French Open 2026)",
-            "match_name": "Finals",
-            "event_name": "BWF Super 750 - French Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Yonex-French-Open-2026_FC-WEB.jpg",
-            "team_1": "Finals",
-            "team_2": "France",
+            "event_category": "Tennis",
+            "match_id": 4249620,
+            "title": "Day 7 - World Feed vs Lyon, France (ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026)",
+            "match_name": "Day 7 - World Feed",
+            "event_name": "ATP 250 - Grand Prix Auvergne-Rhone-Alpes 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-Auvergne-Rhone-Alpes_fc-web.jpg",
+            "team_1": "Day 7 - World Feed",
+            "team_2": "Lyon, France",
             "status": "UPCOMING",
-            "startTime": "03:30:00 PM 25-10-2026",
+            "startTime": "07:00:00 PM 25-10-2026",
             "user-agent": null
         },
         {
@@ -882,6 +905,19 @@
             "team_2": "Brussels, Belgium",
             "status": "UPCOMING",
             "startTime": "09:00:00 PM 25-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250488,
+            "title": "Abu Dhabi vs Emirates Red (Emirates D20, 2026)",
+            "match_name": "Abu Dhabi vs Emirates Red",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",
+            "team_1": "Abu Dhabi",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -925,32 +961,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250529,
-            "title": "Delhi Dynamites vs Haryana Hustlers (Northern Artist Champions League 2026)",
-            "match_name": "Delhi Dynamites vs Haryana Hustlers",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Delhi Dynamites",
-            "team_2": "Haryana Hustlers",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 AM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250355,
-            "title": "Lumbini Lions vs Sudurpaschim Royals (Nepal Premier League Season 3, 2026)",
-            "match_name": "Lumbini Lions vs Sudurpaschim Royals",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250355_53124_LBL_SPR_fc-Web.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Sudurpaschim Royals",
-            "status": "UPCOMING",
-            "startTime": "04:45:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250530,
             "title": "Uttrakhand Stars vs Chandigarh Chargers (Northern Artist Champions League 2026)",
             "match_name": "Uttrakhand Stars vs Chandigarh Chargers",
@@ -960,19 +970,6 @@
             "team_2": "Chandigarh Chargers",
             "status": "UPCOMING",
             "startTime": "02:00:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250488,
-            "title": "Abu Dhabi vs Emirates Red (Emirates D20, 2026)",
-            "match_name": "Abu Dhabi vs Emirates Red",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250488_53130_ABD_EMR_fc-web_1792412929301.jpg",
-            "team_1": "Abu Dhabi",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -990,19 +987,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250531,
-            "title": "Himachal Highlenders vs Punjab Warriors (Northern Artist Champions League 2026)",
-            "match_name": "Himachal Highlenders vs Punjab Warriors",
-            "event_name": "Northern Artist Champions League 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Himachal Highlenders",
-            "team_2": "Punjab Warriors",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 26-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250489,
             "title": "Emirates Blues vs Sharjah (Emirates D20, 2026)",
             "match_name": "Emirates Blues vs Sharjah",
@@ -1012,6 +996,19 @@
             "team_2": "Sharjah",
             "status": "UPCOMING",
             "startTime": "10:00:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250531,
+            "title": "Himachal Highlenders vs Punjab Warriors (Northern Artist Champions League 2026)",
+            "match_name": "Himachal Highlenders vs Punjab Warriors",
+            "event_name": "Northern Artist Champions League 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Himachal Highlenders",
+            "team_2": "Punjab Warriors",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 26-10-2026",
             "user-agent": null
         },
         {
@@ -1064,6 +1061,45 @@
             "team_2": "Basel, Switzerland",
             "status": "UPCOMING",
             "startTime": "03:30:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248713,
+            "title": "Al-Ahli Saudi FC vs Al Gharafa (AFC Champions League Elite 2026-27)",
+            "match_name": "Al-Ahli Saudi FC vs Al Gharafa",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248713_53053_AAS_AGH_fc-web_1792670285275.jpg",
+            "team_1": "Al-Ahli Saudi FC",
+            "team_2": "Al Gharafa",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248714,
+            "title": "Al Ain vs Tractor (AFC Champions League Elite 2026-27)",
+            "match_name": "Al Ain vs Tractor",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248714_53053_AAI_TFC_fc-web.jpg",
+            "team_1": "Al Ain",
+            "team_2": "Tractor",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 26-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248715,
+            "title": "Air Force SC vs Pakhtakor Tashkent (AFC Champions League Elite 2026-27)",
+            "match_name": "Air Force SC vs Pakhtakor Tashkent",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248715_53053_AFSC_PT_fc-web.jpg",
+            "team_1": "Air Force SC",
+            "team_2": "Pakhtakor Tashkent",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 26-10-2026",
             "user-agent": null
         }
     ]
