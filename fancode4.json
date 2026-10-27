@@ -2,125 +2,30 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "11:48:45 PM 27-10-2026",
-    "generated_at": "2026-10-27 18:20:35",
+    "source_last_updated": "03:40:59 AM 28-10-2026",
+    "generated_at": "2026-10-27 22:20:14",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 8,
-    "upcoming_matches_count": 32,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 37,
     "matches": [
         {
-            "event_category": "Cricket",
-            "match_id": "4249769_ENG",
-            "title": "Zimbabwe Tour of Afghanistan in UAE, 2026 [English]",
-            "match_name": "Afghanistan vs Zimbabwe [English]",
-            "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Zimbabwe",
-            "status": "LIVE",
-            "startTime": "08:00:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249769_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
             "event_category": "Football",
-            "match_id": "4249990_ENG",
-            "title": "DFB Pokal 2026-27 [English]",
-            "match_name": "Rot-Weiss Essen vs RB Leipzig [English]",
-            "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249990_53043_ESS_LEP_FC-WEB.jpg",
-            "team_1": "Rot-Weiss Essen",
-            "team_2": "RB Leipzig",
+            "match_id": "4249711_ENG",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Fleetwood Town vs Arsenal [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
+            "team_1": "Fleetwood Town",
+            "team_2": "Arsenal",
             "status": "LIVE",
-            "startTime": "10:30:00 PM 27-10-2026",
+            "startTime": "01:30:00 AM 28-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249990_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4248719_ENG",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Al Shamal vs Al Hilal SFC [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248719_53053_ALS_AHS_fc-web_1792675117387.jpg",
-            "team_1": "Al Shamal",
-            "team_2": "Al Hilal SFC",
-            "status": "LIVE",
-            "startTime": "11:45:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248719_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4248992_ENG",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Al Shorta vs Al Hussein [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248992_53057_SHR_HUS_fc-web_1789025066785.jpg",
-            "team_1": "Al Shorta",
-            "team_2": "Al Hussein",
-            "status": "LIVE",
-            "startTime": "11:45:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248992_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249636_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "04:00:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249636_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249650_ENG",
-            "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "IWB Court 1 [English]",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "IWB Court 1",
-            "team_2": "Basel, Switzerland",
-            "status": "LIVE",
-            "startTime": "04:30:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249650_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249711_ENG/english.m3u8"
                 }
             ]
         },
@@ -128,10 +33,10 @@
             "event_category": "Tennis",
             "match_id": "4249629_ENG",
             "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs M. Landaluce [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Martin-Landaluce-Open-web-match-card.png",
-            "team_1": "A. Zverev vs M. Landaluce",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
             "team_2": "Vienna, Austria",
             "status": "LIVE",
             "startTime": "06:00:00 PM 27-10-2026",
@@ -254,29 +159,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249991,
-            "title": "Borussia Dortmund vs SV Werder Bremen (DFB Pokal 2026-27)",
-            "match_name": "Borussia Dortmund vs SV Werder Bremen",
-            "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg",
-            "team_1": "Borussia Dortmund",
-            "team_2": "SV Werder Bremen",
+            "event_category": "Cricket",
+            "match_id": 4250491,
+            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Emirates Blues vs Abu Dhabi",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Abu Dhabi",
             "status": "UPCOMING",
-            "startTime": "01:15:00 AM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249711,
-            "title": "Fleetwood Town vs Arsenal (Carabao Cup 2026-27)",
-            "match_name": "Fleetwood Town vs Arsenal",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
-            "team_1": "Fleetwood Town",
-            "team_2": "Arsenal",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 28-10-2026",
+            "startTime": "10:00:00 PM 28-10-2026",
             "user-agent": null
         },
         {
@@ -290,19 +182,6 @@
             "team_2": "UP Thunderbolts",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250491,
-            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Abu Dhabi",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 28-10-2026",
             "user-agent": null
         },
         {
@@ -407,19 +286,6 @@
             "team_2": "FK Arkadag",
             "status": "UPCOMING",
             "startTime": "07:15:00 PM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250580,
-            "title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-            "match_name": "Centre Court",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Centre Court",
-            "team_2": "Vienna, Austria",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 28-10-2026",
             "user-agent": null
         },
         {
@@ -571,126 +437,135 @@
             "title": "Bayer 04 Leverkusen vs 1. FC Nürnberg (DFB Pokal 2026-27)",
             "match_name": "Bayer 04 Leverkusen vs 1. FC Nürnberg",
             "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249992_53043_LEV_NUR_FC-WEB.jpg",
             "team_1": "Bayer 04 Leverkusen",
             "team_2": "1. FC Nürnberg",
             "status": "UPCOMING",
             "startTime": "01:15:00 AM 29-10-2026",
             "user-agent": null
-        }
-    ],
-    "live_matches": [
-        {
-            "event_category": "Cricket",
-            "match_id": "4249769_ENG",
-            "title": "Zimbabwe Tour of Afghanistan in UAE, 2026 [English]",
-            "match_name": "Afghanistan vs Zimbabwe [English]",
-            "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/ZIM1.jpg",
-            "team_1": "Afghanistan",
-            "team_2": "Zimbabwe",
-            "status": "LIVE",
-            "startTime": "08:00:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249769_ENG/english.m3u8"
-                }
-            ]
         },
         {
             "event_category": "Football",
-            "match_id": "4249990_ENG",
-            "title": "DFB Pokal 2026-27 [English]",
-            "match_name": "Rot-Weiss Essen vs RB Leipzig [English]",
+            "match_id": 4249993,
+            "title": "FC Bayern Munich vs 1. FC Magdeburg (DFB Pokal 2026-27)",
+            "match_name": "FC Bayern Munich vs 1. FC Magdeburg",
             "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249990_53043_ESS_LEP_FC-WEB.jpg",
-            "team_1": "Rot-Weiss Essen",
-            "team_2": "RB Leipzig",
-            "status": "LIVE",
-            "startTime": "10:30:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249990_ENG/english.m3u8"
-                }
-            ]
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "FC Bayern Munich",
+            "team_2": "1. FC Magdeburg",
+            "status": "UPCOMING",
+            "startTime": "01:15:00 AM 29-10-2026",
+            "user-agent": null
         },
         {
             "event_category": "Football",
-            "match_id": "4248719_ENG",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Al Shamal vs Al Hilal SFC [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248719_53053_ALS_AHS_fc-web_1792675117387.jpg",
-            "team_1": "Al Shamal",
-            "team_2": "Al Hilal SFC",
-            "status": "LIVE",
-            "startTime": "11:45:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248719_ENG/english.m3u8"
-                }
-            ]
+            "match_id": 4249489,
+            "title": "Arsenal Women vs Benfica Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Arsenal Women vs Benfica Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249489_53078_ARS-W_BEN-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Benfica Women",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
         },
         {
             "event_category": "Football",
-            "match_id": "4248992_ENG",
-            "title": "AFC Champions League Two 2026-27 [English]",
-            "match_name": "Al Shorta vs Al Hussein [English]",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248992_53057_SHR_HUS_fc-web_1789025066785.jpg",
-            "team_1": "Al Shorta",
-            "team_2": "Al Hussein",
-            "status": "LIVE",
-            "startTime": "11:45:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248992_ENG/english.m3u8"
-                }
-            ]
+            "match_id": 4249490,
+            "title": "OL Lyonnes vs Inter Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "OL Lyonnes vs Inter Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249490_53078_OLY-W_INT-W_fc-web.jpg",
+            "team_1": "OL Lyonnes",
+            "team_2": "Inter Women",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249716,
+            "title": "Liverpool vs Chelsea (Carabao Cup 2026-27)",
+            "match_name": "Liverpool vs Chelsea",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249716_53016_LIV_CHE_fc-web.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Chelsea",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
         },
         {
             "event_category": "Tennis",
-            "match_id": "4249636_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "04:00:00 PM 27-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249636_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249650_ENG",
-            "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "IWB Court 1 [English]",
+            "match_id": 4249651,
+            "title": "IWB Court 1 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "IWB Court 1",
             "event_name": "ATP 500 - Swiss Indoors Basel 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
             "team_1": "IWB Court 1",
             "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249630,
+            "title": "World Feed vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 500 - Erste Bank Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Vienna, Austria",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249637,
+            "title": "Glaubandich Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+            "match_name": "Glaubandich Court",
+            "event_name": "ATP 500 - Erste Bank Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "Glaubandich Court",
+            "team_2": "Vienna, Austria",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249644,
+            "title": "World Feed vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "World Feed",
+            "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
+            "user-agent": null
+        }
+    ],
+    "live_matches": [
+        {
+            "event_category": "Football",
+            "match_id": "4249711_ENG",
+            "title": "Carabao Cup 2026-27 [English]",
+            "match_name": "Fleetwood Town vs Arsenal [English]",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
+            "team_1": "Fleetwood Town",
+            "team_2": "Arsenal",
             "status": "LIVE",
-            "startTime": "04:30:00 PM 27-10-2026",
+            "startTime": "01:30:00 AM 28-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249650_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249711_ENG/english.m3u8"
                 }
             ]
         },
@@ -698,10 +573,10 @@
             "event_category": "Tennis",
             "match_id": "4249629_ENG",
             "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs M. Landaluce [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Martin-Landaluce-Open-web-match-card.png",
-            "team_1": "A. Zverev vs M. Landaluce",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
             "team_2": "Vienna, Austria",
             "status": "LIVE",
             "startTime": "06:00:00 PM 27-10-2026",
@@ -826,29 +701,16 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249991,
-            "title": "Borussia Dortmund vs SV Werder Bremen (DFB Pokal 2026-27)",
-            "match_name": "Borussia Dortmund vs SV Werder Bremen",
-            "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249991_53043_DOR_WBN_FC-WEB_1793110060947.jpg",
-            "team_1": "Borussia Dortmund",
-            "team_2": "SV Werder Bremen",
+            "event_category": "Cricket",
+            "match_id": 4250491,
+            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
+            "match_name": "Emirates Blues vs Abu Dhabi",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Abu Dhabi",
             "status": "UPCOMING",
-            "startTime": "01:15:00 AM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249711,
-            "title": "Fleetwood Town vs Arsenal (Carabao Cup 2026-27)",
-            "match_name": "Fleetwood Town vs Arsenal",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249711_53016_FLW_ARS_fc-web.jpg",
-            "team_1": "Fleetwood Town",
-            "team_2": "Arsenal",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 28-10-2026",
+            "startTime": "10:00:00 PM 28-10-2026",
             "user-agent": null
         },
         {
@@ -862,19 +724,6 @@
             "team_2": "UP Thunderbolts",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250491,
-            "title": "Emirates Blues vs Abu Dhabi (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Abu Dhabi",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250491_53130_EMB_ABD_fc-web_1792412929359.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Abu Dhabi",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 28-10-2026",
             "user-agent": null
         },
         {
@@ -979,19 +828,6 @@
             "team_2": "FK Arkadag",
             "status": "UPCOMING",
             "startTime": "07:15:00 PM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250580,
-            "title": "Centre Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
-            "match_name": "Centre Court",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Centre Court",
-            "team_2": "Vienna, Austria",
-            "status": "UPCOMING",
-            "startTime": "12:30:00 AM 28-10-2026",
             "user-agent": null
         },
         {
@@ -1143,11 +979,115 @@
             "title": "Bayer 04 Leverkusen vs 1. FC Nürnberg (DFB Pokal 2026-27)",
             "match_name": "Bayer 04 Leverkusen vs 1. FC Nürnberg",
             "event_name": "DFB Pokal 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249992_53043_LEV_NUR_FC-WEB.jpg",
             "team_1": "Bayer 04 Leverkusen",
             "team_2": "1. FC Nürnberg",
             "status": "UPCOMING",
             "startTime": "01:15:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249993,
+            "title": "FC Bayern Munich vs 1. FC Magdeburg (DFB Pokal 2026-27)",
+            "match_name": "FC Bayern Munich vs 1. FC Magdeburg",
+            "event_name": "DFB Pokal 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "team_1": "FC Bayern Munich",
+            "team_2": "1. FC Magdeburg",
+            "status": "UPCOMING",
+            "startTime": "01:15:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249489,
+            "title": "Arsenal Women vs Benfica Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Arsenal Women vs Benfica Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249489_53078_ARS-W_BEN-W_fc-web.jpg",
+            "team_1": "Arsenal Women",
+            "team_2": "Benfica Women",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249490,
+            "title": "OL Lyonnes vs Inter Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "OL Lyonnes vs Inter Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249490_53078_OLY-W_INT-W_fc-web.jpg",
+            "team_1": "OL Lyonnes",
+            "team_2": "Inter Women",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249716,
+            "title": "Liverpool vs Chelsea (Carabao Cup 2026-27)",
+            "match_name": "Liverpool vs Chelsea",
+            "event_name": "Carabao Cup 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249716_53016_LIV_CHE_fc-web.jpg",
+            "team_1": "Liverpool",
+            "team_2": "Chelsea",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 29-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249651,
+            "title": "IWB Court 1 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "IWB Court 1",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "IWB Court 1",
+            "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249630,
+            "title": "World Feed vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 500 - Erste Bank Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Vienna, Austria",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249637,
+            "title": "Glaubandich Court vs Vienna, Austria (ATP 500 - Erste Bank Open 2026)",
+            "match_name": "Glaubandich Court",
+            "event_name": "ATP 500 - Erste Bank Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "Glaubandich Court",
+            "team_2": "Vienna, Austria",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249644,
+            "title": "World Feed vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "World Feed",
+            "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 28-10-2026",
             "user-agent": null
         }
     ]
