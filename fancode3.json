@@ -1,10 +1,43 @@
 {
   "name": "FanCode Live Matches API",
-  "updatedAt": "29/10/2026, 4:46:24 am",
+  "updatedAt": "29/10/2026, 8:00:37 am",
   "total_matches": 40,
-  "live_matches": 0,
-  "upcoming_matches": 40,
+  "live_matches": 1,
+  "upcoming_matches": 39,
   "matches": [
+    {
+      "category": "Cricket",
+      "title": "Western Australia vs South Australia [English]",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249668",
+      "status": "LIVE",
+      "startTime": "05:30:00 AM 28-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+        "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/index.m3u8",
+        "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/index.m3u8",
+        "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/index.m3u8",
+        "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/index.m3u8",
+        "backup": {}
+      },
+      "auto_streams": {
+        "ENGLISH": {
+          "streams": {
+            "240p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/240p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+            "360p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/360p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+            "480p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/480p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+            "540p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/540p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+            "720p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/720p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+            "1080p": "https://in-mc-flive.fancode.com/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/1080p.m3u8?hdntl=Expires=1793318141~_GO=Generated~acl=/mumbai/4249668_english_hls_a2c3979ec978952_1ta-di_h264/*~SessionID=fc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature=ATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD"
+          },
+          "sonu_px": "https://akamaii.lovable.app/api/public/px/fancode?url=https%3A%2F%2Fin-mc-flive.fancode.com%2Fmumbai%2F4249668_english_hls_a2c3979ec978952_1ta-di_h264%2F720p.m3u8%3Fhdntl%3DExpires%3D1793318141~_GO%3DGenerated~acl%3D%2Fmumbai%2F4249668_english_hls_a2c3979ec978952_1ta-di_h264%2F*~SessionID%3Dfc-app_sportsguruand_504_watcho_9aae0fbe-7ffc-40~Signature%3DATFKiJtfUL6dsyeVn0bYJ1Tn-HyDTgDr09rJ_4e5dICcp3_SR42gjCSRu4WsHRnBiDUAlxVXEXFJtWh6TO110u-bF4AD",
+          "expires": "1793318141",
+          "expire_date": "30-10-2026 05:25:41 IST"
+        }
+      }
+    },
     {
       "category": "Cricket",
       "title": "South Africa vs Australia",
@@ -13,25 +46,6 @@
       "status": "UPCOMING",
       "startTime": "02:00:00 PM 27-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/AUS-vs-SA-test_Web-match-card.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Western Australia vs South Australia",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249668",
-      "status": "UPCOMING",
-      "startTime": "05:30:00 AM 28-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249668_53087_SAU_WAU_FC-WEB.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -216,6 +230,25 @@
     },
     {
       "category": "Cricket",
+      "title": "Tasmania vs New South Wales",
+      "tournament": "Sheffield Shield, 2026/27",
+      "match_id": "4249669",
+      "status": "UPCOMING",
+      "startTime": "05:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
       "title": "Himachal Highlenders vs Rajasthan Royalsmen",
       "tournament": "Northern Artist Champions League 2026",
       "match_id": "4250538",
@@ -272,6 +305,25 @@
       "auto_streams": {}
     },
     {
+      "category": "Cricket",
+      "title": "Haryana Hustlers vs Uttrakhand Stars",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250540",
+      "status": "UPCOMING",
+      "startTime": "06:00:00 PM 29-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250540_53137_HH_UTS_FC-Web.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
       "category": "Football",
       "title": "Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC",
       "tournament": "AFC Champions League Two 2026-27",
@@ -298,25 +350,6 @@
       "status": "UPCOMING",
       "startTime": "03:30:00 PM 29-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4248999_53057_GW_KIT_fc-web_1789025065982.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Haryana Hustlers vs Uttrakhand Stars",
-      "tournament": "Northern Artist Champions League 2026",
-      "match_id": "4250540",
-      "status": "UPCOMING",
-      "startTime": "06:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250540_53137_HH_UTS_FC-Web.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -387,12 +420,31 @@
     },
     {
       "category": "Cricket",
-      "title": "Tasmania vs New South Wales",
-      "tournament": "Sheffield Shield, 2026/27",
-      "match_id": "4249669",
+      "title": "Australia vs Hong Kong, China",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250307",
       "status": "UPCOMING",
-      "startTime": "05:00:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
+      "startTime": "06:15:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Bangladesh vs Scotland",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250308",
+      "status": "UPCOMING",
+      "startTime": "07:10:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -481,25 +533,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Cricket",
-      "title": "Australia vs Hong Kong, China",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250307",
-      "status": "UPCOMING",
-      "startTime": "06:15:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250307_53120_AUS_HK_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Football",
       "title": "Everton vs Newcastle United",
       "tournament": "Carabao Cup 2026-27",
@@ -545,25 +578,6 @@
       "status": "UPCOMING",
       "startTime": "01:30:00 AM 30-10-2026",
       "image": "https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Cricket",
-      "title": "Bangladesh vs Scotland",
-      "tournament": "Hong Kong Sixes, 2026",
-      "match_id": "4250308",
-      "status": "UPCOMING",
-      "startTime": "07:10:00 AM 30-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250308_53120_BAN_SCO_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -633,63 +647,6 @@
       "auto_streams": {}
     },
     {
-      "category": "Golf",
-      "title": "Day 1",
-      "tournament": "Wistron Ladies Open 2026",
-      "match_id": "4250512",
-      "status": "UPCOMING",
-      "startTime": "11:30:00 AM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Wistron-Ladies-Open-2026_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Badminton",
-      "title": "Round of 16",
-      "tournament": "BWF Super 500 - Hylo Open 2026",
-      "match_id": "4250522",
-      "status": "UPCOMING",
-      "startTime": "02:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249645",
-      "status": "UPCOMING",
-      "startTime": "04:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-      "language": "ENGLISH",
-      "streams": {
-        "primary": "",
-        "fancode_cdn": "UNAVAILABLE",
-        "fancode_bd_cdn": "UNAVAILABLE",
-        "fancode_np_cdn": "UNAVAILABLE",
-        "fancode_lk_cdn": "UNAVAILABLE",
-        "backup": {}
-      },
-      "auto_streams": {}
-    },
-    {
       "category": "Cricket",
       "title": "Bangladesh vs Sri Lanka",
       "tournament": "Hong Kong Sixes, 2026",
@@ -709,13 +666,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "Fairplay Court",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4250607",
+      "category": "Cricket",
+      "title": "India vs Pakistan",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250313",
       "status": "UPCOMING",
-      "startTime": "05:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "startTime": "11:45:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250313_53120_IND_PAK_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -728,13 +685,13 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "IWB Court 1",
-      "tournament": "ATP 500 - Swiss Indoors Basel 2026",
-      "match_id": "4249652",
+      "category": "Cricket",
+      "title": "Papua New Guinea vs Kuwait",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": "4250347",
       "status": "UPCOMING",
-      "startTime": "05:30:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+      "startTime": "12:15:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
@@ -747,13 +704,70 @@
       "auto_streams": {}
     },
     {
-      "category": "Tennis",
-      "title": "World Feed",
-      "tournament": "ATP 500 - Erste Bank Open 2026",
-      "match_id": "4249631",
+      "category": "Cricket",
+      "title": "Jersey vs Denmark",
+      "tournament": "ICC CWC Challenge League A 2026",
+      "match_id": "4250348",
       "status": "UPCOMING",
-      "startTime": "06:00:00 PM 29-10-2026",
-      "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+      "startTime": "12:15:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-We.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "TBC vs TBC",
+      "tournament": "Northern Artist Champions League 2026",
+      "match_id": "4250541",
+      "status": "UPCOMING",
+      "startTime": "09:00:00 AM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "South Africa vs Afghanistan",
+      "tournament": "Hong Kong Sixes, 2026",
+      "match_id": "4250314",
+      "status": "UPCOMING",
+      "startTime": "12:40:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/4250314_53120_SA_AFG_fc-web.jpg",
+      "language": "ENGLISH",
+      "streams": {
+        "primary": "",
+        "fancode_cdn": "UNAVAILABLE",
+        "fancode_bd_cdn": "UNAVAILABLE",
+        "fancode_np_cdn": "UNAVAILABLE",
+        "fancode_lk_cdn": "UNAVAILABLE",
+        "backup": {}
+      },
+      "auto_streams": {}
+    },
+    {
+      "category": "Cricket",
+      "title": "Namibia vs Ireland",
+      "tournament": "Ireland tour of Namibia, 2026",
+      "match_id": "4250334",
+      "status": "UPCOMING",
+      "startTime": "01:00:00 PM 30-10-2026",
+      "image": "https://www.fancode.com/skillup-uploads/cms-media/Namibia-vs-Ireland_fc-web.jpg",
       "language": "ENGLISH",
       "streams": {
         "primary": "",
