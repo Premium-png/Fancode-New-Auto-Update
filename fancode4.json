@@ -2,87 +2,30 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "10:41:29 PM 30-10-2026",
-    "generated_at": "2026-10-30 17:15:05",
+    "source_last_updated": "02:57:19 AM 31-10-2026",
+    "generated_at": "2026-10-30 21:30:12",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 40,
-    "live_matches_count": 5,
-    "upcoming_matches_count": 35,
+    "total_matches": 39,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 36,
     "matches": [
         {
-            "event_category": "Cricket",
-            "match_id": "4250495_ENG",
-            "title": "Emirates D20, 2026 [English]",
-            "match_name": "Emirates Blues vs Dubai [English]",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
+            "event_category": "Football",
+            "match_id": "4249600_ENG",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Sheffield United F.C. vs Wrexham A.F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Wrexham A.F.C.",
             "status": "LIVE",
-            "startTime": "10:00:00 PM 30-10-2026",
+            "startTime": "01:30:00 AM 31-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250495_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249639_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249639_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249646_ENG",
-            "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "World Feed",
-            "team_2": "Basel, Switzerland",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249646_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": "4250523_ENG",
-            "title": "BWF Super 500 - Hylo Open 2026 [English]",
-            "match_name": "Quaterfinals [English]",
-            "event_name": "BWF Super 500 - Hylo Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
-            "team_1": "Quaterfinals",
-            "team_2": "Saarbrucken, Germany",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250523_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249600_ENG/english.m3u8"
                 }
             ]
         },
@@ -90,10 +33,10 @@
             "event_category": "Tennis",
             "match_id": "4249632_ENG",
             "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs A. Fery [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Arthur-Fery-web-match-card.png",
-            "team_1": "A. Zverev vs A. Fery",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
             "team_2": "Vienna, Austria",
             "status": "LIVE",
             "startTime": "06:00:00 PM 30-10-2026",
@@ -102,6 +45,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249632_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Golf",
+            "match_id": "4250509_ENG",
+            "title": "VidantaWorld Mexico Open 2026 [English]",
+            "match_name": "Day 2 [English]",
+            "event_name": "VidantaWorld Mexico Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+            "team_1": "Day 2",
+            "team_2": "Vidanta Vallarta Golf Course - Vallarta, México",
+            "status": "LIVE",
+            "startTime": "01:30:00 AM 31-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250509_ENG/english.m3u8"
                 }
             ]
         },
@@ -366,19 +328,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4250272,
-            "title": "Al-Shabab FC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Shabab FC vs Al-Ahli Saudi FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
-            "team_1": "Al-Shabab FC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 30-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250362,
             "title": "Sudurpaschim Royals vs Biratnagar Kings (Nepal Premier League Season 3, 2026)",
@@ -402,32 +351,6 @@
             "team_2": "Dubai",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247674,
-            "title": "Villarreal CF vs RCD Espanyol (LALIGA 2026-27)",
-            "match_name": "Villarreal CF vs RCD Espanyol",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247674_53004_VIL_ESL_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249600,
-            "title": "Sheffield United F.C. vs Wrexham A.F.C. (EFL Championship 2026-27)",
-            "match_name": "Sheffield United F.C. vs Wrexham A.F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -510,19 +433,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249207,
-            "title": "Everton Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Everton Women vs Manchester United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
-            "team_1": "Everton Women",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247676,
             "title": "Real Betis vs Malaga (LALIGA 2026-27)",
             "match_name": "Real Betis vs Malaga",
@@ -532,6 +442,19 @@
             "team_2": "Malaga",
             "status": "UPCOMING",
             "startTime": "11:00:00 PM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139508,
+            "title": "Practice 2 vs Autodromo Hermanos Rodriguez (F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Autodromo Hermanos Rodriguez",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -548,93 +471,88 @@
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139507,
-            "title": "Practice 1 vs Autodromo Hermanos Rodriguez (F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026)",
-            "match_name": "Practice 1",
-            "event_name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Autodromo Hermanos Rodriguez",
+            "event_category": "Football",
+            "match_id": 4249207,
+            "title": "Everton Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Everton Women vs Manchester United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
+            "team_1": "Everton Women",
+            "team_2": "Manchester United Women",
             "status": "UPCOMING",
-            "startTime": "12:00:00 AM 31-10-2026",
+            "startTime": "06:15:00 PM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247668,
+            "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247668_53004_BAR_ALA_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250325,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:10:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250326,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "08:05:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "MotoGP",
+            "match_id": 139982,
+            "title": "Day 2 vs Sepang (PETRONAS GRAND PRIX OF MALAYSIA 2026)",
+            "match_name": "Day 2",
+            "event_name": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Sepang",
+            "status": "UPCOMING",
+            "startTime": "06:10:00 AM 31-10-2026",
             "user-agent": null
         }
     ],
     "live_matches": [
         {
-            "event_category": "Cricket",
-            "match_id": "4250495_ENG",
-            "title": "Emirates D20, 2026 [English]",
-            "match_name": "Emirates Blues vs Dubai [English]",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250495_53130_DUB_EMB_fc-web_1792412930095.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Dubai",
+            "event_category": "Football",
+            "match_id": "4249600_ENG",
+            "title": "EFL Championship 2026-27 [English]",
+            "match_name": "Sheffield United F.C. vs Wrexham A.F.C. [English]",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg",
+            "team_1": "Sheffield United F.C.",
+            "team_2": "Wrexham A.F.C.",
             "status": "LIVE",
-            "startTime": "10:00:00 PM 30-10-2026",
+            "startTime": "01:30:00 AM 31-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250495_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249639_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249639_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249646_ENG",
-            "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "World Feed [English]",
-            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
-            "team_1": "World Feed",
-            "team_2": "Basel, Switzerland",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249646_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": "4250523_ENG",
-            "title": "BWF Super 500 - Hylo Open 2026 [English]",
-            "match_name": "Quaterfinals [English]",
-            "event_name": "BWF Super 500 - Hylo Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Hylo-Open-2026_fc-web.jpg",
-            "team_1": "Quaterfinals",
-            "team_2": "Saarbrucken, Germany",
-            "status": "LIVE",
-            "startTime": "05:30:00 PM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250523_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249600_ENG/english.m3u8"
                 }
             ]
         },
@@ -642,10 +560,10 @@
             "event_category": "Tennis",
             "match_id": "4249632_ENG",
             "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs A. Fery [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Arthur-Fery-web-match-card.png",
-            "team_1": "A. Zverev vs A. Fery",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
+            "team_1": "World Feed",
             "team_2": "Vienna, Austria",
             "status": "LIVE",
             "startTime": "06:00:00 PM 30-10-2026",
@@ -654,6 +572,25 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249632_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Golf",
+            "match_id": "4250509_ENG",
+            "title": "VidantaWorld Mexico Open 2026 [English]",
+            "match_name": "Day 2 [English]",
+            "event_name": "VidantaWorld Mexico Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
+            "team_1": "Day 2",
+            "team_2": "Vidanta Vallarta Golf Course - Vallarta, México",
+            "status": "LIVE",
+            "startTime": "01:30:00 AM 31-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250509_ENG/english.m3u8"
                 }
             ]
         }
@@ -920,19 +857,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4250272,
-            "title": "Al-Shabab FC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
-            "match_name": "Al-Shabab FC vs Al-Ahli Saudi FC",
-            "event_name": "Roshn Saudi League 2026-2027",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250272_53025_ASF_AAS_FC-Web.png",
-            "team_1": "Al-Shabab FC",
-            "team_2": "Al-Ahli Saudi FC",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 PM 30-10-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250362,
             "title": "Sudurpaschim Royals vs Biratnagar Kings (Nepal Premier League Season 3, 2026)",
@@ -956,32 +880,6 @@
             "team_2": "Dubai",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247674,
-            "title": "Villarreal CF vs RCD Espanyol (LALIGA 2026-27)",
-            "match_name": "Villarreal CF vs RCD Espanyol",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247674_53004_VIL_ESL_FC-Web.png",
-            "team_1": "Villarreal CF",
-            "team_2": "RCD Espanyol",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249600,
-            "title": "Sheffield United F.C. vs Wrexham A.F.C. (EFL Championship 2026-27)",
-            "match_name": "Sheffield United F.C. vs Wrexham A.F.C.",
-            "event_name": "EFL Championship 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249600_52993_SHF_WRX_fc-web.jpg",
-            "team_1": "Sheffield United F.C.",
-            "team_2": "Wrexham A.F.C.",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -1064,19 +962,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249207,
-            "title": "Everton Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Everton Women vs Manchester United Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
-            "team_1": "Everton Women",
-            "team_2": "Manchester United Women",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 PM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
             "match_id": 4247676,
             "title": "Real Betis vs Malaga (LALIGA 2026-27)",
             "match_name": "Real Betis vs Malaga",
@@ -1086,6 +971,19 @@
             "team_2": "Malaga",
             "status": "UPCOMING",
             "startTime": "11:00:00 PM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139508,
+            "title": "Practice 2 vs Autodromo Hermanos Rodriguez (F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026)",
+            "match_name": "Practice 2",
+            "event_name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
+            "team_1": "Practice 2",
+            "team_2": "Autodromo Hermanos Rodriguez",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -1102,16 +1000,68 @@
             "user-agent": null
         },
         {
-            "event_category": "Formula 1",
-            "match_id": 139507,
-            "title": "Practice 1 vs Autodromo Hermanos Rodriguez (F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026)",
-            "match_name": "Practice 1",
-            "event_name": "F1 GRAN PREMIO DE LA CUIDAD DE MEXICO 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mexico_GP_FC_web.jpg",
-            "team_1": "Practice 1",
-            "team_2": "Autodromo Hermanos Rodriguez",
+            "event_category": "Football",
+            "match_id": 4249207,
+            "title": "Everton Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
+            "match_name": "Everton Women vs Manchester United Women",
+            "event_name": "Barclays Women's Super League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249207_53038_EVE-W_MUN-W_fc-web.jpg",
+            "team_1": "Everton Women",
+            "team_2": "Manchester United Women",
             "status": "UPCOMING",
-            "startTime": "12:00:00 AM 31-10-2026",
+            "startTime": "06:15:00 PM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4247668,
+            "title": "FC Barcelona vs Deportivo Alaves (LALIGA 2026-27)",
+            "match_name": "FC Barcelona vs Deportivo Alaves",
+            "event_name": "LALIGA 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247668_53004_BAR_ALA_FC-Web.png",
+            "team_1": "FC Barcelona",
+            "team_2": "Deportivo Alaves",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250325,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:10:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250326,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "08:05:00 AM 01-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "MotoGP",
+            "match_id": 139982,
+            "title": "Day 2 vs Sepang (PETRONAS GRAND PRIX OF MALAYSIA 2026)",
+            "match_name": "Day 2",
+            "event_name": "PETRONAS GRAND PRIX OF MALAYSIA 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Petronas-Grand-Prix-of-Malaysia_fc-web.jpg",
+            "team_1": "Day 2",
+            "team_2": "Sepang",
+            "status": "UPCOMING",
+            "startTime": "06:10:00 AM 31-10-2026",
             "user-agent": null
         }
     ]
