@@ -2,68 +2,30 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "01:54:21 AM 30-10-2026",
-    "generated_at": "2026-10-29 20:30:12",
+    "source_last_updated": "05:06:17 AM 30-10-2026",
+    "generated_at": "2026-10-29 23:45:04",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 8,
-    "upcoming_matches_count": 32,
+    "live_matches_count": 3,
+    "upcoming_matches_count": 37,
     "matches": [
         {
-            "event_category": "Football",
-            "match_id": "4249717_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Everton vs Newcastle United [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg",
-            "team_1": "Everton",
-            "team_2": "Newcastle United",
+            "event_category": "Cricket",
+            "match_id": "4249669_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "startTime": "01:15:00 AM 30-10-2026",
+            "startTime": "05:00:00 AM 30-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249717_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249493_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "HB Køge Women vs Barcelona Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249493_53078_KOG-W_BAR-W_fc-web.jpg",
-            "team_1": "HB Køge Women",
-            "team_2": "Barcelona Women",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249493_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249494_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Manchester City Women vs Paris Saint-Germain Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Paris Saint-Germain Women",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249494_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249669_ENG/english.m3u8"
                 }
             ]
         },
@@ -71,10 +33,10 @@
             "event_category": "Tennis",
             "match_id": "4249645_ENG",
             "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "N. Djokovic vs J.L. Struff [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Djokov_Mini.png",
-            "team_1": "N. Djokovic vs J.L. Struff",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "World Feed",
             "team_2": "Basel, Switzerland",
             "status": "LIVE",
             "startTime": "04:30:00 PM 29-10-2026",
@@ -102,63 +64,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249652_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249631_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs T. Griekspoor [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Tallon-Griekspoor-web-match-card.png",
-            "team_1": "A. Zverev vs T. Griekspoor",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "06:00:00 PM 29-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249631_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249638_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "06:00:00 PM 29-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249638_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Golf",
-            "match_id": "4250508_ENG",
-            "title": "VidantaWorld Mexico Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "VidantaWorld Mexico Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
-            "team_1": "Day 1",
-            "team_2": "Vidanta Vallarta Golf Course - Vallarta, México",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250508_ENG/english.m3u8"
                 }
             ]
         },
@@ -199,19 +104,6 @@
             "team_2": "West Indies",
             "status": "PAUSED",
             "startTime": "09:30:00 AM 28-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249669,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 30-10-2026",
             "user-agent": null
         },
         {
@@ -412,27 +304,27 @@
         {
             "event_category": "Cricket",
             "match_id": 4250541,
-            "title": "TBC vs TBC (Northern Artist Champions League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Rajasthan Royalsmen vs Uttrakhand Stars (Northern Artist Champions League 2026)",
+            "match_name": "Rajasthan Royalsmen vs Uttrakhand Stars",
             "event_name": "Northern Artist Champions League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Rajasthan Royalsmen",
+            "team_2": "Uttrakhand Stars",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 30-10-2026",
+            "startTime": "10:00:00 AM 30-10-2026",
             "user-agent": null
         },
         {
             "event_category": "Cricket",
             "match_id": 4250542,
-            "title": "TBC vs TBC (Northern Artist Champions League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Himachal Highlenders vs Chandigarh Chargers (Northern Artist Champions League 2026)",
+            "match_name": "Himachal Highlenders vs Chandigarh Chargers",
             "event_name": "Northern Artist Champions League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Himachal Highlenders",
+            "team_2": "Chandigarh Chargers",
             "status": "UPCOMING",
-            "startTime": "06:00:00 PM 30-10-2026",
+            "startTime": "02:00:00 PM 30-10-2026",
             "user-agent": null
         },
         {
@@ -449,6 +341,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249670,
+            "title": "Queensland vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Queensland vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4250272,
             "title": "Al-Shabab FC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
@@ -459,6 +364,19 @@
             "team_2": "Al-Ahli Saudi FC",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 30-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250316,
+            "title": "Oman vs Afghanistan (Hong Kong Sixes, 2026)",
+            "match_name": "Oman vs Afghanistan",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250316_53120_OMA_AFG_fc-web.jpg",
+            "team_1": "Oman",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -489,32 +407,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249670,
-            "title": "Queensland vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Queensland vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250316,
-            "title": "Oman vs Afghanistan (Hong Kong Sixes, 2026)",
-            "match_name": "Oman vs Afghanistan",
-            "event_name": "Hong Kong Sixes, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250316_53120_OMA_AFG_fc-web.jpg",
-            "team_1": "Oman",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250317,
             "title": "Scotland vs Sri Lanka (Hong Kong Sixes, 2026)",
             "match_name": "Scotland vs Sri Lanka",
@@ -524,6 +416,58 @@
             "team_2": "Sri Lanka",
             "status": "UPCOMING",
             "startTime": "07:10:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250318,
+            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2026)",
+            "match_name": "United Arab Emirates vs India",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "startTime": "08:05:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250319,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250320,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "09:55:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250390,
+            "title": "Adelaide Strikers Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+            "match_name": "Adelaide Strikers Women vs Melbourne Stars Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793256236930.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Melbourne Stars Women",
+            "status": "UPCOMING",
+            "startTime": "10:10:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -537,6 +481,19 @@
             "team_2": "Sepang",
             "status": "UPCOMING",
             "startTime": "06:30:00 AM 30-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250321,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "10:50:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -567,73 +524,48 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250318,
-            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2026)",
-            "match_name": "United Arab Emirates vs India",
-            "event_name": "Hong Kong Sixes, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",
+            "match_id": 4250519,
+            "title": "United Arab Emirates vs Netherlands (ICC CWC League 2 UAE, 2026)",
+            "match_name": "United Arab Emirates vs Netherlands",
+            "event_name": "ICC CWC League 2 UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
             "team_1": "United Arab Emirates",
-            "team_2": "India",
+            "team_2": "Netherlands",
             "status": "UPCOMING",
-            "startTime": "08:05:00 AM 31-10-2026",
+            "startTime": "11:00:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249653,
+            "title": "ATP 500 - Swiss Indoors Basel 2026 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "ATP 500 - Swiss Indoors Basel 2026",
+            "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 30-10-2026",
             "user-agent": null
         }
     ],
     "live_matches": [
         {
-            "event_category": "Football",
-            "match_id": "4249717_ENG",
-            "title": "Carabao Cup 2026-27 [English]",
-            "match_name": "Everton vs Newcastle United [English]",
-            "event_name": "Carabao Cup 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249717_53016_EVE_NEW_fc-web.jpg",
-            "team_1": "Everton",
-            "team_2": "Newcastle United",
+            "event_category": "Cricket",
+            "match_id": "4249669_ENG",
+            "title": "Sheffield Shield, 2026/27 [English]",
+            "match_name": "Tasmania vs New South Wales [English]",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
+            "team_1": "Tasmania",
+            "team_2": "New South Wales",
             "status": "LIVE",
-            "startTime": "01:15:00 AM 30-10-2026",
+            "startTime": "05:00:00 AM 30-10-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249717_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249493_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "HB Køge Women vs Barcelona Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249493_53078_KOG-W_BAR-W_fc-web.jpg",
-            "team_1": "HB Køge Women",
-            "team_2": "Barcelona Women",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249493_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4249494_ENG",
-            "title": "UEFA Women's Champions League 2026-27 [English]",
-            "match_name": "Manchester City Women vs Paris Saint-Germain Women [English]",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249494_53078_MCI-W_PSG-W_fc-web.jpg",
-            "team_1": "Manchester City Women",
-            "team_2": "Paris Saint-Germain Women",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249494_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249669_ENG/english.m3u8"
                 }
             ]
         },
@@ -641,10 +573,10 @@
             "event_category": "Tennis",
             "match_id": "4249645_ENG",
             "title": "ATP 500 - Swiss Indoors Basel 2026 [English]",
-            "match_name": "N. Djokovic vs J.L. Struff [English]",
+            "match_name": "World Feed [English]",
             "event_name": "ATP 500 - Swiss Indoors Basel 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Djokov_Mini.png",
-            "team_1": "N. Djokovic vs J.L. Struff",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "World Feed",
             "team_2": "Basel, Switzerland",
             "status": "LIVE",
             "startTime": "04:30:00 PM 29-10-2026",
@@ -672,63 +604,6 @@
                 {
                     "language": "English",
                     "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249652_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249631_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "A. Zverev vs T. Griekspoor [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Zverev-vs-Tallon-Griekspoor-web-match-card.png",
-            "team_1": "A. Zverev vs T. Griekspoor",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "06:00:00 PM 29-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249631_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": "4249638_ENG",
-            "title": "ATP 500 - Erste Bank Open 2026 [English]",
-            "match_name": "Glaubandich Court [English]",
-            "event_name": "ATP 500 - Erste Bank Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Erste-Bank-Open_Web-match-card.png",
-            "team_1": "Glaubandich Court",
-            "team_2": "Vienna, Austria",
-            "status": "LIVE",
-            "startTime": "06:00:00 PM 29-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249638_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Golf",
-            "match_id": "4250508_ENG",
-            "title": "VidantaWorld Mexico Open 2026 [English]",
-            "match_name": "Day 1 [English]",
-            "event_name": "VidantaWorld Mexico Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1792760641052.png",
-            "team_1": "Day 1",
-            "team_2": "Vidanta Vallarta Golf Course - Vallarta, México",
-            "status": "LIVE",
-            "startTime": "01:30:00 AM 30-10-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250508_ENG/english.m3u8"
                 }
             ]
         }
@@ -775,19 +650,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249669,
-            "title": "Tasmania vs New South Wales (Sheffield Shield, 2026/27)",
-            "match_name": "Tasmania vs New South Wales",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249669_53087_TAS_NSW_FC-WEB.jpg",
-            "team_1": "Tasmania",
-            "team_2": "New South Wales",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 30-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250307,
             "title": "Australia vs Hong Kong, China (Hong Kong Sixes, 2026)",
             "match_name": "Australia vs Hong Kong, China",
@@ -984,27 +846,27 @@
         {
             "event_category": "Cricket",
             "match_id": 4250541,
-            "title": "TBC vs TBC (Northern Artist Champions League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Rajasthan Royalsmen vs Uttrakhand Stars (Northern Artist Champions League 2026)",
+            "match_name": "Rajasthan Royalsmen vs Uttrakhand Stars",
             "event_name": "Northern Artist Champions League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Rajasthan Royalsmen",
+            "team_2": "Uttrakhand Stars",
             "status": "UPCOMING",
-            "startTime": "09:00:00 AM 30-10-2026",
+            "startTime": "10:00:00 AM 30-10-2026",
             "user-agent": null
         },
         {
             "event_category": "Cricket",
             "match_id": 4250542,
-            "title": "TBC vs TBC (Northern Artist Champions League 2026)",
-            "match_name": "TBC vs TBC",
+            "title": "Himachal Highlenders vs Chandigarh Chargers (Northern Artist Champions League 2026)",
+            "match_name": "Himachal Highlenders vs Chandigarh Chargers",
             "event_name": "Northern Artist Champions League 2026",
             "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Web_1792997982624.png",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "team_1": "Himachal Highlenders",
+            "team_2": "Chandigarh Chargers",
             "status": "UPCOMING",
-            "startTime": "06:00:00 PM 30-10-2026",
+            "startTime": "02:00:00 PM 30-10-2026",
             "user-agent": null
         },
         {
@@ -1021,6 +883,19 @@
             "user-agent": null
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4249670,
+            "title": "Queensland vs Victoria (Sheffield Shield, 2026/27)",
+            "match_name": "Queensland vs Victoria",
+            "event_name": "Sheffield Shield, 2026/27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
+            "team_1": "Queensland",
+            "team_2": "Victoria",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
             "event_category": "Football",
             "match_id": 4250272,
             "title": "Al-Shabab FC vs Al-Ahli Saudi FC (Roshn Saudi League 2026-2027)",
@@ -1031,6 +906,19 @@
             "team_2": "Al-Ahli Saudi FC",
             "status": "UPCOMING",
             "startTime": "11:30:00 PM 30-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250316,
+            "title": "Oman vs Afghanistan (Hong Kong Sixes, 2026)",
+            "match_name": "Oman vs Afghanistan",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250316_53120_OMA_AFG_fc-web.jpg",
+            "team_1": "Oman",
+            "team_2": "Afghanistan",
+            "status": "UPCOMING",
+            "startTime": "06:15:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -1061,32 +949,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249670,
-            "title": "Queensland vs Victoria (Sheffield Shield, 2026/27)",
-            "match_name": "Queensland vs Victoria",
-            "event_name": "Sheffield Shield, 2026/27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249670_53087_QUN_VCT_FC-WEB.jpg",
-            "team_1": "Queensland",
-            "team_2": "Victoria",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250316,
-            "title": "Oman vs Afghanistan (Hong Kong Sixes, 2026)",
-            "match_name": "Oman vs Afghanistan",
-            "event_name": "Hong Kong Sixes, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250316_53120_OMA_AFG_fc-web.jpg",
-            "team_1": "Oman",
-            "team_2": "Afghanistan",
-            "status": "UPCOMING",
-            "startTime": "06:15:00 AM 31-10-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250317,
             "title": "Scotland vs Sri Lanka (Hong Kong Sixes, 2026)",
             "match_name": "Scotland vs Sri Lanka",
@@ -1096,6 +958,58 @@
             "team_2": "Sri Lanka",
             "status": "UPCOMING",
             "startTime": "07:10:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250318,
+            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2026)",
+            "match_name": "United Arab Emirates vs India",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",
+            "team_1": "United Arab Emirates",
+            "team_2": "India",
+            "status": "UPCOMING",
+            "startTime": "08:05:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250319,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250320,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "09:55:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250390,
+            "title": "Adelaide Strikers Women vs Melbourne Stars Women (Women's Big Bash League, 2026)",
+            "match_name": "Adelaide Strikers Women vs Melbourne Stars Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250390_53125_AS-W_MS-W_fc-web_1793256236930.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Melbourne Stars Women",
+            "status": "UPCOMING",
+            "startTime": "10:10:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -1109,6 +1023,19 @@
             "team_2": "Sepang",
             "status": "UPCOMING",
             "startTime": "06:30:00 AM 30-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250321,
+            "title": "TBC vs TBC (Hong Kong Sixes, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Hong Kong Sixes, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "10:50:00 AM 31-10-2026",
             "user-agent": null
         },
         {
@@ -1139,15 +1066,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250318,
-            "title": "United Arab Emirates vs India (Hong Kong Sixes, 2026)",
-            "match_name": "United Arab Emirates vs India",
-            "event_name": "Hong Kong Sixes, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250318_53120_UAE_IND_fc-web.jpg",
+            "match_id": 4250519,
+            "title": "United Arab Emirates vs Netherlands (ICC CWC League 2 UAE, 2026)",
+            "match_name": "United Arab Emirates vs Netherlands",
+            "event_name": "ICC CWC League 2 UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-League_Web-match-card.png",
             "team_1": "United Arab Emirates",
-            "team_2": "India",
+            "team_2": "Netherlands",
             "status": "UPCOMING",
-            "startTime": "08:05:00 AM 31-10-2026",
+            "startTime": "11:00:00 AM 31-10-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4249653,
+            "title": "ATP 500 - Swiss Indoors Basel 2026 vs Basel, Switzerland (ATP 500 - Swiss Indoors Basel 2026)",
+            "match_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "event_name": "ATP 500 - Swiss Indoors Basel 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Tennis_FC-We.png",
+            "team_1": "ATP 500 - Swiss Indoors Basel 2026",
+            "team_2": "Basel, Switzerland",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 30-10-2026",
             "user-agent": null
         }
     ]
