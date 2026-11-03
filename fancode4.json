@@ -2,129 +2,184 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "03:01:21 PM 03-11-2026",
-    "generated_at": "2026-11-03 09:35:13",
+    "source_last_updated": "10:36:27 PM 03-11-2026",
+    "generated_at": "2026-11-03 17:15:07",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
     "total_matches": 40,
-    "live_matches_count": 2,
-    "upcoming_matches_count": 38,
+    "live_matches_count": 9,
+    "upcoming_matches_count": 31,
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250366_ENG",
-            "title": "Nepal Premier League Season 3, 2026 [English]",
-            "match_name": "Biratnagar Kings vs Janakpur Bolts [English]",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Janakpur Bolts",
-            "status": "LIVE",
-            "startTime": "12:15:00 PM 03-11-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250366_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Football",
-            "match_id": "4248736_ENG",
-            "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Newcastle Jets vs Shanghai Port [English]",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248736_53053_NJ_SHG_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Shanghai Port",
-            "status": "LIVE",
-            "startTime": "01:15:00 PM 03-11-2026",
-            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "streams": [
-                {
-                    "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248736_ENG/english.m3u8"
-                }
-            ]
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250367,
-            "title": "Lumbini Lions vs Pokhara Avengers (Nepal Premier League Season 3, 2026)",
-            "match_name": "Lumbini Lions vs Pokhara Avengers",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250367_53124_LBL_PKA_fc-Web_1793616701725.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Pokhara Avengers",
-            "status": "UPCOMING",
-            "startTime": "04:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250502,
-            "title": "Emirates Blues vs Emirates Red (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
+            "match_id": "4250503_ENG",
+            "title": "Emirates D20, 2026 [English]",
+            "match_name": "Dubai vs Ajman [English]",
             "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250503,
-            "title": "Dubai vs Ajman (Emirates D20, 2026)",
-            "match_name": "Dubai vs Ajman",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
             "team_1": "Dubai",
             "team_2": "Ajman",
-            "status": "UPCOMING",
+            "status": "LIVE",
             "startTime": "10:00:00 PM 03-11-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250503_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250204_ENG",
+            "title": "England Lions tour of West Indies, 2026 [English]",
+            "match_name": "England Lions vs West Indies A [English]",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "England Lions",
+            "team_2": "West Indies A",
+            "status": "LIVE",
+            "startTime": "10:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250204_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Football",
-            "match_id": 4248737,
-            "title": "Jeonbuk Motors vs Johor Darul Ta'zim (AFC Champions League Elite 2026-27)",
-            "match_name": "Jeonbuk Motors vs Johor Darul Ta'zim",
+            "match_id": "4248734_ENG",
+            "title": "AFC Champions League Elite 2026-27 [English]",
+            "match_name": "Esteghlal FC vs Al Shamal [English]",
             "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248737_53053_JNB_JDT_fc-web.jpg",
-            "team_1": "Jeonbuk Motors",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Shamal",
+            "status": "LIVE",
+            "startTime": "09:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248734_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Football",
-            "match_id": 4248738,
-            "title": "Vissel Kobe vs Ratchaburi (AFC Champions League Elite 2026-27)",
-            "match_name": "Vissel Kobe vs Ratchaburi",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg",
-            "team_1": "Vissel Kobe",
-            "team_2": "Ratchaburi",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
+            "match_id": "4249008_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al Hussein vs Al Shorta [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg",
+            "team_1": "Al Hussein",
+            "team_2": "Al Shorta",
+            "status": "LIVE",
+            "startTime": "09:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249008_ENG/english.m3u8"
+                }
+            ]
         },
         {
-            "event_category": "Football",
-            "match_id": 4248739,
-            "title": "Kashiwa Reysol vs Daejeon Hana Citizen FC (AFC Champions League Elite 2026-27)",
-            "match_name": "Kashiwa Reysol vs Daejeon Hana Citizen FC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248739_53053_REY_DAC_fc-web.jpg",
-            "team_1": "Kashiwa Reysol",
-            "team_2": "Daejeon Hana Citizen FC",
-            "status": "UPCOMING",
+            "event_category": "Tennis",
+            "match_id": "4250551_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 1 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 1",
+            "team_2": "Paris, France",
+            "status": "LIVE",
             "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250551_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250552_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250552_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250554_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 2 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 2",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250554_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250553_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 3 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 3",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250553_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250649_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court Central [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court Central",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250649_ENG/english.m3u8"
+                }
+            ]
         },
         {
             "event_category": "Cricket",
@@ -141,80 +196,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250204,
-            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
-            "match_name": "West Indies A vs England Lions",
-            "event_name": "England Lions tour of West Indies, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-            "team_1": "West Indies A",
-            "team_2": "England Lions",
+            "match_id": 4250395,
+            "title": "Hobart Hurricanes Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
+            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
-            "startTime": "10:30:00 PM 03-11-2026",
+            "startTime": "01:40:00 PM 04-11-2026",
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4248740,
-            "title": "Port FC vs Beijing Guoan (AFC Champions League Elite 2026-27)",
-            "match_name": "Port FC vs Beijing Guoan",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248740_53053_PFC_BEI_fc-web.jpg",
-            "team_1": "Port FC",
-            "team_2": "Beijing Guoan",
+            "event_category": "Cricket",
+            "match_id": 4250504,
+            "title": "TBC vs TBC (Emirates D20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248741,
-            "title": "Cong An Ha Noi vs Kyoto Sanga (AFC Champions League Elite 2026-27)",
-            "match_name": "Cong An Ha Noi vs Kyoto Sanga",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248741_53053_CAH_KYS_fc-web.jpg",
-            "team_1": "Cong An Ha Noi",
-            "team_2": "Kyoto Sanga",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249007,
-            "title": "East Bengal FC vs Al Seeb Club (AFC Champions League Two 2026-27)",
-            "match_name": "East Bengal FC vs Al Seeb Club",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249007_53057_EBFC_ALS_fc-web_1789025066061.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Al Seeb Club",
-            "status": "UPCOMING",
-            "startTime": "07:15:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248734,
-            "title": "Esteghlal FC vs Al Shamal (AFC Champions League Elite 2026-27)",
-            "match_name": "Esteghlal FC vs Al Shamal",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg",
-            "team_1": "Esteghlal FC",
-            "team_2": "Al Shamal",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249008,
-            "title": "Al Hussein vs Al Shorta (AFC Champions League Two 2026-27)",
-            "match_name": "Al Hussein vs Al Shorta",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg",
-            "team_1": "Al Hussein",
-            "team_2": "Al Shorta",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 03-11-2026",
+            "startTime": "06:00:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -244,58 +247,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250395,
-            "title": "Hobart Hurricanes Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
-            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
-            "team_1": "Hobart Hurricanes Women",
-            "team_2": "Melbourne Renegades Women",
-            "status": "UPCOMING",
-            "startTime": "01:40:00 PM 04-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250551,
-            "title": "Court 1 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 1",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 1",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250552,
-            "title": "World Feed vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250554,
-            "title": "Court 2 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 2",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 2",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249009,
             "title": "Melbourne Victory vs Persib Bandung (AFC Champions League Two 2026-27)",
@@ -310,7 +261,7 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250504,
+            "match_id": 4250505,
             "title": "TBC vs TBC (Emirates D20, 2026)",
             "match_name": "TBC vs TBC",
             "event_name": "Emirates D20, 2026",
@@ -318,7 +269,7 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "06:00:00 PM 04-11-2026",
+            "startTime": "10:00:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -349,6 +300,32 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4248743,
+            "title": "Buriram United vs Kashima Antlers (AFC Champions League Elite 2026-27)",
+            "match_name": "Buriram United vs Kashima Antlers",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
+            "team_1": "Buriram United",
+            "team_2": "Kashima Antlers",
+            "status": "UPCOMING",
+            "startTime": "05:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249003,
+            "title": "FK Arkadag vs Golgohar Sirjan SC (AFC Champions League Two 2026-27)",
+            "match_name": "FK Arkadag vs Golgohar Sirjan SC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
+            "team_1": "FK Arkadag",
+            "team_2": "Golgohar Sirjan SC",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4250250,
             "title": "Bam Khatoon FC vs Naegohyang Women's FC (AFC Women's Champions League 2026-27)",
             "match_name": "Bam Khatoon FC vs Naegohyang Women's FC",
@@ -374,58 +351,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4250553,
-            "title": "Court 3 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 3",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 3",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Live Events",
-            "match_id": 4250648,
-            "title": "APL Draft 2026 vs United Arab Emirates (APL Draft 2026)",
-            "match_name": "APL Draft 2026",
-            "event_name": "APL Draft 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "APL Draft 2026",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250649,
-            "title": "Court Central vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court Central",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court Central",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248743,
-            "title": "Buriram United vs Kashima Antlers (AFC Champions League Elite 2026-27)",
-            "match_name": "Buriram United vs Kashima Antlers",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
-            "team_1": "Buriram United",
-            "team_2": "Kashima Antlers",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 04-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4250262,
             "title": "Kaya FC Iloilo Women vs Melbourne City Women (AFC Women's Champions League 2026-27)",
@@ -439,29 +364,42 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250505,
-            "title": "TBC vs TBC (Emirates D20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Football",
+            "match_id": 4249001,
+            "title": "Al Wahda vs Al Khaldiya SC (AFC Champions League Two 2026-27)",
+            "match_name": "Al Wahda vs Al Khaldiya SC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
+            "team_1": "Al Wahda",
+            "team_2": "Al Khaldiya SC",
             "status": "UPCOMING",
-            "startTime": "10:00:00 PM 04-11-2026",
+            "startTime": "09:30:00 PM 04-11-2026",
             "user-agent": null
         },
         {
             "event_category": "Football",
-            "match_id": 4249003,
-            "title": "FK Arkadag vs Golgohar Sirjan SC (AFC Champions League Two 2026-27)",
-            "match_name": "FK Arkadag vs Golgohar Sirjan SC",
+            "match_id": 4249002,
+            "title": "Kuwait SC vs PFC Nasaf (AFC Champions League Two 2026-27)",
+            "match_name": "Kuwait SC vs PFC Nasaf",
             "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
-            "team_1": "FK Arkadag",
-            "team_2": "Golgohar Sirjan SC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249002_53057_KSC_NAS_fc-web_1789025065843.jpg",
+            "team_1": "Kuwait SC",
+            "team_2": "PFC Nasaf",
             "status": "UPCOMING",
-            "startTime": "07:15:00 PM 04-11-2026",
+            "startTime": "09:30:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249005,
+            "title": "Al Rayyan vs Al-Nahda Club (AFC Champions League Two 2026-27)",
+            "match_name": "Al Rayyan vs Al-Nahda Club",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249005_53057_RAY_ALN_fc-web_1789025065846.jpg",
+            "team_1": "Al Rayyan",
+            "team_2": "Al-Nahda Club",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -475,6 +413,84 @@
             "team_2": "INAC Kobe Leonessa Women",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250205,
+            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
+            "match_name": "West Indies A vs England Lions",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "West Indies A",
+            "team_2": "England Lions",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250257,
+            "title": "East Bengal FC Women vs Hwacheon KSPO WFC (AFC Women's Champions League 2026-27)",
+            "match_name": "East Bengal FC Women vs Hwacheon KSPO WFC",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "image": "https://images.fancode.com/aig/match/v1793533399037/4250257_CASACARDS_APP.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Hwacheon KSPO WFC",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250263,
+            "title": "PFC Nasaf Women vs Beijing Jingtan FC Women (AFC Women's Champions League 2026-27)",
+            "match_name": "PFC Nasaf Women vs Beijing Jingtan FC Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "image": "https://images.fancode.com/aig/match/v1793533399052/4250263_CASACARDS_APP.png",
+            "team_1": "PFC Nasaf Women",
+            "team_2": "Beijing Jingtan FC Women",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249004,
+            "title": "Al Muharraq vs Al Jazira (AFC Champions League Two 2026-27)",
+            "match_name": "Al Muharraq vs Al Jazira",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249004_53057_ALM_ALJ_fc-web_1789025066150.jpg",
+            "team_1": "Al Muharraq",
+            "team_2": "Al Jazira",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249006,
+            "title": "Al-Taawoun FC vs Al Faisaly (AFC Champions League Two 2026-27)",
+            "match_name": "Al-Taawoun FC vs Al Faisaly",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249006_53057_ALTW_ALF_fc-web_1789025065477.jpg",
+            "team_1": "Al-Taawoun FC",
+            "team_2": "Al Faisaly",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250007,
+            "title": "Bristol City F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Bristol City F.C. vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg",
+            "team_1": "Bristol City F.C.",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 05-11-2026",
             "user-agent": null
         },
         {
@@ -530,55 +546,214 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249001,
-            "title": "Al Wahda vs Al Khaldiya SC (AFC Champions League Two 2026-27)",
-            "match_name": "Al Wahda vs Al Khaldiya SC",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
-            "team_1": "Al Wahda",
-            "team_2": "Al Khaldiya SC",
+            "event_category": "Cricket",
+            "match_id": 4250527,
+            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2026)",
+            "match_name": "Bangladesh vs West Indies",
+            "event_name": "West Indies tour of Bangladesh, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "West Indies",
             "status": "UPCOMING",
-            "startTime": "09:30:00 PM 04-11-2026",
+            "startTime": "09:00:00 AM 05-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250396,
+            "title": "Adelaide Strikers Women vs Brisbane Heat Women (Women's Big Bash League, 2026)",
+            "match_name": "Adelaide Strikers Women vs Brisbane Heat Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250396_53125_AS-W_BH-W_fc-web_1793352701997.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Brisbane Heat Women",
+            "status": "UPCOMING",
+            "startTime": "10:10:00 AM 05-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249772,
+            "title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 05-11-2026",
             "user-agent": null
         }
     ],
     "live_matches": [
         {
             "event_category": "Cricket",
-            "match_id": "4250366_ENG",
-            "title": "Nepal Premier League Season 3, 2026 [English]",
-            "match_name": "Biratnagar Kings vs Janakpur Bolts [English]",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web_1793616701848.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Janakpur Bolts",
+            "match_id": "4250503_ENG",
+            "title": "Emirates D20, 2026 [English]",
+            "match_name": "Dubai vs Ajman [English]",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250487_53130_AJM_DUB_fc-web_1792412929315.jpg",
+            "team_1": "Dubai",
+            "team_2": "Ajman",
             "status": "LIVE",
-            "startTime": "12:15:00 PM 03-11-2026",
+            "startTime": "10:00:00 PM 03-11-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250366_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250503_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": "4250204_ENG",
+            "title": "England Lions tour of West Indies, 2026 [English]",
+            "match_name": "England Lions vs West Indies A [English]",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "England Lions",
+            "team_2": "West Indies A",
+            "status": "LIVE",
+            "startTime": "10:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250204_ENG/english.m3u8"
                 }
             ]
         },
         {
             "event_category": "Football",
-            "match_id": "4248736_ENG",
+            "match_id": "4248734_ENG",
             "title": "AFC Champions League Elite 2026-27 [English]",
-            "match_name": "Newcastle Jets vs Shanghai Port [English]",
+            "match_name": "Esteghlal FC vs Al Shamal [English]",
             "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248736_53053_NJ_SHG_fc-web.jpg",
-            "team_1": "Newcastle Jets",
-            "team_2": "Shanghai Port",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg",
+            "team_1": "Esteghlal FC",
+            "team_2": "Al Shamal",
             "status": "LIVE",
-            "startTime": "01:15:00 PM 03-11-2026",
+            "startTime": "09:30:00 PM 03-11-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248736_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4248734_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Football",
+            "match_id": "4249008_ENG",
+            "title": "AFC Champions League Two 2026-27 [English]",
+            "match_name": "Al Hussein vs Al Shorta [English]",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg",
+            "team_1": "Al Hussein",
+            "team_2": "Al Shorta",
+            "status": "LIVE",
+            "startTime": "09:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4249008_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250551_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 1 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 1",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250551_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250552_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "World Feed",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250552_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250554_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 2 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 2",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "03:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250554_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250553_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court 3 [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court 3",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250553_ENG/english.m3u8"
+                }
+            ]
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250649_ENG",
+            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
+            "match_name": "Court Central [English]",
+            "event_name": "ATP Masters - Rolex Paris Masters 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
+            "team_1": "Court Central",
+            "team_2": "Paris, France",
+            "status": "LIVE",
+            "startTime": "04:30:00 PM 03-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "streams": [
+                {
+                    "language": "English",
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250649_ENG/english.m3u8"
                 }
             ]
         }
@@ -586,84 +761,6 @@
     "upcoming_matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4250367,
-            "title": "Lumbini Lions vs Pokhara Avengers (Nepal Premier League Season 3, 2026)",
-            "match_name": "Lumbini Lions vs Pokhara Avengers",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250367_53124_LBL_PKA_fc-Web_1793616701725.jpg",
-            "team_1": "Lumbini Lions",
-            "team_2": "Pokhara Avengers",
-            "status": "UPCOMING",
-            "startTime": "04:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250502,
-            "title": "Emirates Blues vs Emirates Red (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
-            "status": "UPCOMING",
-            "startTime": "06:00:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250503,
-            "title": "Dubai vs Ajman (Emirates D20, 2026)",
-            "match_name": "Dubai vs Ajman",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Dubai",
-            "team_2": "Ajman",
-            "status": "UPCOMING",
-            "startTime": "10:00:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248737,
-            "title": "Jeonbuk Motors vs Johor Darul Ta'zim (AFC Champions League Elite 2026-27)",
-            "match_name": "Jeonbuk Motors vs Johor Darul Ta'zim",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248737_53053_JNB_JDT_fc-web.jpg",
-            "team_1": "Jeonbuk Motors",
-            "team_2": "Johor Darul Ta'zim",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248738,
-            "title": "Vissel Kobe vs Ratchaburi (AFC Champions League Elite 2026-27)",
-            "match_name": "Vissel Kobe vs Ratchaburi",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248738_53053_VIS_RAT_fc-web.jpg",
-            "team_1": "Vissel Kobe",
-            "team_2": "Ratchaburi",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248739,
-            "title": "Kashiwa Reysol vs Daejeon Hana Citizen FC (AFC Champions League Elite 2026-27)",
-            "match_name": "Kashiwa Reysol vs Daejeon Hana Citizen FC",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248739_53053_REY_DAC_fc-web.jpg",
-            "team_1": "Kashiwa Reysol",
-            "team_2": "Daejeon Hana Citizen FC",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4250521,
             "title": "United Arab Emirates vs Oman (ICC CWC League 2 UAE, 2026)",
             "match_name": "United Arab Emirates vs Oman",
@@ -677,80 +774,28 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250204,
-            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
-            "match_name": "West Indies A vs England Lions",
-            "event_name": "England Lions tour of West Indies, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-            "team_1": "West Indies A",
-            "team_2": "England Lions",
+            "match_id": 4250395,
+            "title": "Hobart Hurricanes Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
+            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
+            "team_1": "Hobart Hurricanes Women",
+            "team_2": "Melbourne Renegades Women",
             "status": "UPCOMING",
-            "startTime": "10:30:00 PM 03-11-2026",
+            "startTime": "01:40:00 PM 04-11-2026",
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4248740,
-            "title": "Port FC vs Beijing Guoan (AFC Champions League Elite 2026-27)",
-            "match_name": "Port FC vs Beijing Guoan",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248740_53053_PFC_BEI_fc-web.jpg",
-            "team_1": "Port FC",
-            "team_2": "Beijing Guoan",
+            "event_category": "Cricket",
+            "match_id": 4250504,
+            "title": "TBC vs TBC (Emirates D20, 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Emirates D20, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248741,
-            "title": "Cong An Ha Noi vs Kyoto Sanga (AFC Champions League Elite 2026-27)",
-            "match_name": "Cong An Ha Noi vs Kyoto Sanga",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248741_53053_CAH_KYS_fc-web.jpg",
-            "team_1": "Cong An Ha Noi",
-            "team_2": "Kyoto Sanga",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249007,
-            "title": "East Bengal FC vs Al Seeb Club (AFC Champions League Two 2026-27)",
-            "match_name": "East Bengal FC vs Al Seeb Club",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249007_53057_EBFC_ALS_fc-web_1789025066061.jpg",
-            "team_1": "East Bengal FC",
-            "team_2": "Al Seeb Club",
-            "status": "UPCOMING",
-            "startTime": "07:15:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248734,
-            "title": "Esteghlal FC vs Al Shamal (AFC Champions League Elite 2026-27)",
-            "match_name": "Esteghlal FC vs Al Shamal",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248734_53053_ESG_ALS_fc-web.jpg",
-            "team_1": "Esteghlal FC",
-            "team_2": "Al Shamal",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249008,
-            "title": "Al Hussein vs Al Shorta (AFC Champions League Two 2026-27)",
-            "match_name": "Al Hussein vs Al Shorta",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249008_53057_HUS_SHR_fc-web_1789025065496.jpg",
-            "team_1": "Al Hussein",
-            "team_2": "Al Shorta",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 PM 03-11-2026",
+            "startTime": "06:00:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -780,58 +825,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250395,
-            "title": "Hobart Hurricanes Women vs Melbourne Renegades Women (Women's Big Bash League, 2026)",
-            "match_name": "Hobart Hurricanes Women vs Melbourne Renegades Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250395_53125_HB-W_MR-W_fc-web_1793352702028.jpg",
-            "team_1": "Hobart Hurricanes Women",
-            "team_2": "Melbourne Renegades Women",
-            "status": "UPCOMING",
-            "startTime": "01:40:00 PM 04-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250551,
-            "title": "Court 1 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 1",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 1",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250552,
-            "title": "World Feed vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "World Feed",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250554,
-            "title": "Court 2 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 2",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 2",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4249009,
             "title": "Melbourne Victory vs Persib Bandung (AFC Champions League Two 2026-27)",
@@ -846,7 +839,7 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250504,
+            "match_id": 4250505,
             "title": "TBC vs TBC (Emirates D20, 2026)",
             "match_name": "TBC vs TBC",
             "event_name": "Emirates D20, 2026",
@@ -854,7 +847,7 @@
             "team_1": "TBC",
             "team_2": "TBC",
             "status": "UPCOMING",
-            "startTime": "06:00:00 PM 04-11-2026",
+            "startTime": "10:00:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -885,6 +878,32 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4248743,
+            "title": "Buriram United vs Kashima Antlers (AFC Champions League Elite 2026-27)",
+            "match_name": "Buriram United vs Kashima Antlers",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
+            "team_1": "Buriram United",
+            "team_2": "Kashima Antlers",
+            "status": "UPCOMING",
+            "startTime": "05:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249003,
+            "title": "FK Arkadag vs Golgohar Sirjan SC (AFC Champions League Two 2026-27)",
+            "match_name": "FK Arkadag vs Golgohar Sirjan SC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
+            "team_1": "FK Arkadag",
+            "team_2": "Golgohar Sirjan SC",
+            "status": "UPCOMING",
+            "startTime": "07:15:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
             "match_id": 4250250,
             "title": "Bam Khatoon FC vs Naegohyang Women's FC (AFC Women's Champions League 2026-27)",
             "match_name": "Bam Khatoon FC vs Naegohyang Women's FC",
@@ -910,58 +929,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4250553,
-            "title": "Court 3 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court 3",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court 3",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Live Events",
-            "match_id": 4250648,
-            "title": "APL Draft 2026 vs United Arab Emirates (APL Draft 2026)",
-            "match_name": "APL Draft 2026",
-            "event_name": "APL Draft 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Live-Event-old.jpg",
-            "team_1": "APL Draft 2026",
-            "team_2": "United Arab Emirates",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250649,
-            "title": "Court Central vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
-            "match_name": "Court Central",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court Central",
-            "team_2": "Paris, France",
-            "status": "UPCOMING",
-            "startTime": "04:30:00 PM 03-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248743,
-            "title": "Buriram United vs Kashima Antlers (AFC Champions League Elite 2026-27)",
-            "match_name": "Buriram United vs Kashima Antlers",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248743_53053_BU_ANL_fc-web.jpg",
-            "team_1": "Buriram United",
-            "team_2": "Kashima Antlers",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 04-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4250262,
             "title": "Kaya FC Iloilo Women vs Melbourne City Women (AFC Women's Champions League 2026-27)",
@@ -975,29 +942,42 @@
             "user-agent": null
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250505,
-            "title": "TBC vs TBC (Emirates D20, 2026)",
-            "match_name": "TBC vs TBC",
-            "event_name": "Emirates D20, 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "TBC",
-            "team_2": "TBC",
+            "event_category": "Football",
+            "match_id": 4249001,
+            "title": "Al Wahda vs Al Khaldiya SC (AFC Champions League Two 2026-27)",
+            "match_name": "Al Wahda vs Al Khaldiya SC",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
+            "team_1": "Al Wahda",
+            "team_2": "Al Khaldiya SC",
             "status": "UPCOMING",
-            "startTime": "10:00:00 PM 04-11-2026",
+            "startTime": "09:30:00 PM 04-11-2026",
             "user-agent": null
         },
         {
             "event_category": "Football",
-            "match_id": 4249003,
-            "title": "FK Arkadag vs Golgohar Sirjan SC (AFC Champions League Two 2026-27)",
-            "match_name": "FK Arkadag vs Golgohar Sirjan SC",
+            "match_id": 4249002,
+            "title": "Kuwait SC vs PFC Nasaf (AFC Champions League Two 2026-27)",
+            "match_name": "Kuwait SC vs PFC Nasaf",
             "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249003_53057_ARK_GGS_fc-web_1789025066349.jpg",
-            "team_1": "FK Arkadag",
-            "team_2": "Golgohar Sirjan SC",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249002_53057_KSC_NAS_fc-web_1789025065843.jpg",
+            "team_1": "Kuwait SC",
+            "team_2": "PFC Nasaf",
             "status": "UPCOMING",
-            "startTime": "07:15:00 PM 04-11-2026",
+            "startTime": "09:30:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249005,
+            "title": "Al Rayyan vs Al-Nahda Club (AFC Champions League Two 2026-27)",
+            "match_name": "Al Rayyan vs Al-Nahda Club",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249005_53057_RAY_ALN_fc-web_1789025065846.jpg",
+            "team_1": "Al Rayyan",
+            "team_2": "Al-Nahda Club",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 PM 04-11-2026",
             "user-agent": null
         },
         {
@@ -1011,6 +991,84 @@
             "team_2": "INAC Kobe Leonessa Women",
             "status": "UPCOMING",
             "startTime": "06:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250205,
+            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
+            "match_name": "West Indies A vs England Lions",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "West Indies A",
+            "team_2": "England Lions",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250257,
+            "title": "East Bengal FC Women vs Hwacheon KSPO WFC (AFC Women's Champions League 2026-27)",
+            "match_name": "East Bengal FC Women vs Hwacheon KSPO WFC",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "image": "https://images.fancode.com/aig/match/v1793533399037/4250257_CASACARDS_APP.png",
+            "team_1": "East Bengal FC Women",
+            "team_2": "Hwacheon KSPO WFC",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250263,
+            "title": "PFC Nasaf Women vs Beijing Jingtan FC Women (AFC Women's Champions League 2026-27)",
+            "match_name": "PFC Nasaf Women vs Beijing Jingtan FC Women",
+            "event_name": "AFC Women's Champions League 2026-27",
+            "image": "https://images.fancode.com/aig/match/v1793533399052/4250263_CASACARDS_APP.png",
+            "team_1": "PFC Nasaf Women",
+            "team_2": "Beijing Jingtan FC Women",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249004,
+            "title": "Al Muharraq vs Al Jazira (AFC Champions League Two 2026-27)",
+            "match_name": "Al Muharraq vs Al Jazira",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249004_53057_ALM_ALJ_fc-web_1789025066150.jpg",
+            "team_1": "Al Muharraq",
+            "team_2": "Al Jazira",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249006,
+            "title": "Al-Taawoun FC vs Al Faisaly (AFC Champions League Two 2026-27)",
+            "match_name": "Al-Taawoun FC vs Al Faisaly",
+            "event_name": "AFC Champions League Two 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249006_53057_ALTW_ALF_fc-web_1789025065477.jpg",
+            "team_1": "Al-Taawoun FC",
+            "team_2": "Al Faisaly",
+            "status": "UPCOMING",
+            "startTime": "11:45:00 PM 04-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250007,
+            "title": "Bristol City F.C. vs Wolverhampton Wanderers F.C. (EFL Championship 2026-27)",
+            "match_name": "Bristol City F.C. vs Wolverhampton Wanderers F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250007_52993_BRI_WOL_fc-web.jpg",
+            "team_1": "Bristol City F.C.",
+            "team_2": "Wolverhampton Wanderers F.C.",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 05-11-2026",
             "user-agent": null
         },
         {
@@ -1066,16 +1124,42 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4249001,
-            "title": "Al Wahda vs Al Khaldiya SC (AFC Champions League Two 2026-27)",
-            "match_name": "Al Wahda vs Al Khaldiya SC",
-            "event_name": "AFC Champions League Two 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249001_53057_ALW_ALK_fc-web_1789025065744.jpg",
-            "team_1": "Al Wahda",
-            "team_2": "Al Khaldiya SC",
+            "event_category": "Cricket",
+            "match_id": 4250527,
+            "title": "Bangladesh vs West Indies (West Indies tour of Bangladesh, 2026)",
+            "match_name": "Bangladesh vs West Indies",
+            "event_name": "West Indies tour of Bangladesh, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
+            "team_1": "Bangladesh",
+            "team_2": "West Indies",
             "status": "UPCOMING",
-            "startTime": "09:30:00 PM 04-11-2026",
+            "startTime": "09:00:00 AM 05-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250396,
+            "title": "Adelaide Strikers Women vs Brisbane Heat Women (Women's Big Bash League, 2026)",
+            "match_name": "Adelaide Strikers Women vs Brisbane Heat Women",
+            "event_name": "Women's Big Bash League, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250396_53125_AS-W_BH-W_fc-web_1793352701997.jpg",
+            "team_1": "Adelaide Strikers Women",
+            "team_2": "Brisbane Heat Women",
+            "status": "UPCOMING",
+            "startTime": "10:10:00 AM 05-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249772,
+            "title": "Afghanistan vs Zimbabwe (Zimbabwe Tour of Afghanistan in UAE, 2026)",
+            "match_name": "Afghanistan vs Zimbabwe",
+            "event_name": "Zimbabwe Tour of Afghanistan in UAE, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-ZIM_Test_fc-web.jpg",
+            "team_1": "Afghanistan",
+            "team_2": "Zimbabwe",
+            "status": "UPCOMING",
+            "startTime": "10:30:00 AM 05-11-2026",
             "user-agent": null
         }
     ]
