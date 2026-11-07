@@ -2,13 +2,13 @@
     "author": "Amit",
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "source_last_updated": "12:43:02 AM 08-11-2026",
-    "generated_at": "2026-11-07 19:20:04",
+    "source_last_updated": "04:09:54 AM 08-11-2026",
+    "generated_at": "2026-11-07 22:50:03",
     "base_url": "https://allinonereborn2.online/fctest/",
     "fallback_mode": false,
-    "total_matches": 38,
+    "total_matches": 40,
     "live_matches_count": 2,
-    "upcoming_matches_count": 36,
+    "upcoming_matches_count": 38,
     "matches": [
         {
             "event_category": "Cricket",
@@ -30,21 +30,21 @@
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4250570_ENG",
-            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
-            "match_name": "Court Central [English]",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court Central",
-            "team_2": "Paris, France",
+            "event_category": "Golf",
+            "match_id": "4250599_ENG",
+            "title": "World Wide Technology Championship 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "World Wide Technology Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
+            "team_1": "Day 3",
+            "team_2": " Los Cabos, Mexico",
             "status": "LIVE",
-            "startTime": "04:00:00 PM 07-11-2026",
+            "startTime": "01:30:00 AM 08-11-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250570_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250599_ENG/english.m3u8"
                 }
             ]
         },
@@ -101,19 +101,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247682,
-            "title": "Valencia CF vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247682_53004_VAL_RM_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 08-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250746,
             "title": "Eavion Eagles vs Pupkewitz Wildcats (Namibia Super 50, 2026)",
@@ -150,19 +137,6 @@
             "team_2": "Rayo Vallecano",
             "status": "UPCOMING",
             "startTime": "08:45:00 PM 08-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4250599,
-            "title": "Day 3 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
-            "match_name": "Day 3",
-            "event_name": "World Wide Technology Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-            "team_1": "Day 3",
-            "team_2": " Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 08-11-2026",
             "user-agent": null
         },
         {
@@ -270,19 +244,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250606,
-            "title": "Final vs Korea (BWF Super 500 -  Korea Open 2026)",
-            "match_name": "Final",
-            "event_name": "BWF Super 500 -  Korea Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
-            "team_1": "Final",
-            "team_2": "Korea",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 08-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4250761,
             "title": "London City Lionesses vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
@@ -293,6 +254,19 @@
             "team_2": "Birmingham City F.C. Women",
             "status": "UPCOMING",
             "startTime": "08:00:00 PM 08-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250606,
+            "title": "Final vs Korea (BWF Super 500 -  Korea Open 2026)",
+            "match_name": "Final",
+            "event_name": "BWF Super 500 -  Korea Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+            "team_1": "Final",
+            "team_2": "Korea",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 08-11-2026",
             "user-agent": null
         },
         {
@@ -426,19 +400,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4250600,
-            "title": "Day 4 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
-            "match_name": "Day 4",
-            "event_name": "World Wide Technology Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-            "team_1": "Day 4",
-            "team_2": " Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 09-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250373,
             "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
@@ -453,13 +414,13 @@
         },
         {
             "event_category": "Golf",
-            "match_id": 4250612,
-            "title": "LAGC vs NYGC vs Palm Beach Gardens, FL (WTGL 2026)",
-            "match_name": "LAGC vs NYGC",
-            "event_name": "WTGL 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250612_53143_WTGL_LOC_FC-Web.png",
-            "team_1": "LAGC vs NYGC",
-            "team_2": "Palm Beach Gardens, FL",
+            "match_id": 4250600,
+            "title": "Day 4 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
+            "match_name": "Day 4",
+            "event_name": "World Wide Technology Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
+            "team_1": "Day 4",
+            "team_2": " Los Cabos, Mexico",
             "status": "UPCOMING",
             "startTime": "01:30:00 AM 09-11-2026",
             "user-agent": null
@@ -475,6 +436,19 @@
             "team_2": "Kathmandu Gorkhas",
             "status": "UPCOMING",
             "startTime": "04:45:00 PM 09-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250612,
+            "title": "LAGC vs NYGC vs Palm Beach Gardens, FL (WTGL 2026)",
+            "match_name": "LAGC vs NYGC",
+            "event_name": "WTGL 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250612_53143_WTGL_LOC_FC-Web.png",
+            "team_1": "LAGC vs NYGC",
+            "team_2": "Palm Beach Gardens, FL",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 09-11-2026",
             "user-agent": null
         },
         {
@@ -515,6 +489,58 @@
             "status": "UPCOMING",
             "startTime": "01:40:00 PM 10-11-2026",
             "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250375,
+            "title": "Sudurpaschim Royals vs Janakpur Bolts (Nepal Premier League Season 3, 2026)",
+            "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "startTime": "04:45:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4250583,
+            "title": "ATP 250 - Bybit Stockholm Open 2026 vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
+            "match_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 250 - Bybit Stockholm Open 2026",
+            "team_2": "Stockholm, Sweden",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249495,
+            "title": "BK Häcken Women vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "BK Häcken Women vs Chelsea F.C. Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249495_53078_BKH-W_CHE-W_fc-web.jpg",
+            "team_1": "BK Häcken Women",
+            "team_2": "Chelsea F.C. Women",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249496,
+            "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Real Madrid Women vs Paris FC Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249496_53078_RM-W_PFC-W_fc-web.jpg",
+            "team_1": "Real Madrid Women",
+            "team_2": "Paris FC Women",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 10-11-2026",
+            "user-agent": null
         }
     ],
     "live_matches": [
@@ -538,21 +564,21 @@
             ]
         },
         {
-            "event_category": "Tennis",
-            "match_id": "4250570_ENG",
-            "title": "ATP Masters - Rolex Paris Masters 2026 [English]",
-            "match_name": "Court Central [English]",
-            "event_name": "ATP Masters - Rolex Paris Masters 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Rolex-Paris-Masters_fc-web.jpg",
-            "team_1": "Court Central",
-            "team_2": "Paris, France",
+            "event_category": "Golf",
+            "match_id": "4250599_ENG",
+            "title": "World Wide Technology Championship 2026 [English]",
+            "match_name": "Day 3 [English]",
+            "event_name": "World Wide Technology Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
+            "team_1": "Day 3",
+            "team_2": " Los Cabos, Mexico",
             "status": "LIVE",
-            "startTime": "04:00:00 PM 07-11-2026",
+            "startTime": "01:30:00 AM 08-11-2026",
             "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "streams": [
                 {
                     "language": "English",
-                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250570_ENG/english.m3u8"
+                    "playlist_url": "https://allinonereborn2.online/fctest/playlists/match_4250599_ENG/english.m3u8"
                 }
             ]
         }
@@ -611,19 +637,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Football",
-            "match_id": 4247682,
-            "title": "Valencia CF vs Real Madrid (LALIGA 2026-27)",
-            "match_name": "Valencia CF vs Real Madrid",
-            "event_name": "LALIGA 2026-27",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247682_53004_VAL_RM_FC-Web.png",
-            "team_1": "Valencia CF",
-            "team_2": "Real Madrid",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 08-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250746,
             "title": "Eavion Eagles vs Pupkewitz Wildcats (Namibia Super 50, 2026)",
@@ -660,19 +673,6 @@
             "team_2": "Rayo Vallecano",
             "status": "UPCOMING",
             "startTime": "08:45:00 PM 08-11-2026",
-            "user-agent": null
-        },
-        {
-            "event_category": "Golf",
-            "match_id": 4250599,
-            "title": "Day 3 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
-            "match_name": "Day 3",
-            "event_name": "World Wide Technology Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-            "team_1": "Day 3",
-            "team_2": " Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 08-11-2026",
             "user-agent": null
         },
         {
@@ -780,19 +780,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250606,
-            "title": "Final vs Korea (BWF Super 500 -  Korea Open 2026)",
-            "match_name": "Final",
-            "event_name": "BWF Super 500 -  Korea Open 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
-            "team_1": "Final",
-            "team_2": "Korea",
-            "status": "UPCOMING",
-            "startTime": "07:30:00 AM 08-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Football",
             "match_id": 4250761,
             "title": "London City Lionesses vs Birmingham City F.C. Women (Barclays Women's Super League 2026-27)",
@@ -803,6 +790,19 @@
             "team_2": "Birmingham City F.C. Women",
             "status": "UPCOMING",
             "startTime": "08:00:00 PM 08-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250606,
+            "title": "Final vs Korea (BWF Super 500 -  Korea Open 2026)",
+            "match_name": "Final",
+            "event_name": "BWF Super 500 -  Korea Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/BWF-Korean-Open-web-2.png",
+            "team_1": "Final",
+            "team_2": "Korea",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 08-11-2026",
             "user-agent": null
         },
         {
@@ -936,19 +936,6 @@
             "user-agent": null
         },
         {
-            "event_category": "Golf",
-            "match_id": 4250600,
-            "title": "Day 4 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
-            "match_name": "Day 4",
-            "event_name": "World Wide Technology Championship 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
-            "team_1": "Day 4",
-            "team_2": " Los Cabos, Mexico",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 09-11-2026",
-            "user-agent": null
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4250373,
             "title": "Pokhara Avengers vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
@@ -963,13 +950,13 @@
         },
         {
             "event_category": "Golf",
-            "match_id": 4250612,
-            "title": "LAGC vs NYGC vs Palm Beach Gardens, FL (WTGL 2026)",
-            "match_name": "LAGC vs NYGC",
-            "event_name": "WTGL 2026",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250612_53143_WTGL_LOC_FC-Web.png",
-            "team_1": "LAGC vs NYGC",
-            "team_2": "Palm Beach Gardens, FL",
+            "match_id": 4250600,
+            "title": "Day 4 vs  Los Cabos, Mexico (World Wide Technology Championship 2026)",
+            "match_name": "Day 4",
+            "event_name": "World Wide Technology Championship 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/World-Wide-Technology-Championship_Web-match-card_1793992817308.png",
+            "team_1": "Day 4",
+            "team_2": " Los Cabos, Mexico",
             "status": "UPCOMING",
             "startTime": "01:30:00 AM 09-11-2026",
             "user-agent": null
@@ -985,6 +972,19 @@
             "team_2": "Kathmandu Gorkhas",
             "status": "UPCOMING",
             "startTime": "04:45:00 PM 09-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250612,
+            "title": "LAGC vs NYGC vs Palm Beach Gardens, FL (WTGL 2026)",
+            "match_name": "LAGC vs NYGC",
+            "event_name": "WTGL 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250612_53143_WTGL_LOC_FC-Web.png",
+            "team_1": "LAGC vs NYGC",
+            "team_2": "Palm Beach Gardens, FL",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 09-11-2026",
             "user-agent": null
         },
         {
@@ -1024,6 +1024,58 @@
             "team_2": "Adelaide Strikers Women",
             "status": "UPCOMING",
             "startTime": "01:40:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250375,
+            "title": "Sudurpaschim Royals vs Janakpur Bolts (Nepal Premier League Season 3, 2026)",
+            "match_name": "Sudurpaschim Royals vs Janakpur Bolts",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4250375_53124_SPR_JKB_fc-Web_1793616701881.jpg",
+            "team_1": "Sudurpaschim Royals",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "startTime": "04:45:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4250583,
+            "title": "ATP 250 - Bybit Stockholm Open 2026 vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
+            "match_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+            "team_1": "ATP 250 - Bybit Stockholm Open 2026",
+            "team_2": "Stockholm, Sweden",
+            "status": "UPCOMING",
+            "startTime": "12:00:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249495,
+            "title": "BK Häcken Women vs Chelsea F.C. Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "BK Häcken Women vs Chelsea F.C. Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249495_53078_BKH-W_CHE-W_fc-web.jpg",
+            "team_1": "BK Häcken Women",
+            "team_2": "Chelsea F.C. Women",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 10-11-2026",
+            "user-agent": null
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249496,
+            "title": "Real Madrid Women vs Paris FC Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Real Madrid Women vs Paris FC Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4249496_53078_RM-W_PFC-W_fc-web.jpg",
+            "team_1": "Real Madrid Women",
+            "team_2": "Paris FC Women",
+            "status": "UPCOMING",
+            "startTime": "11:15:00 PM 10-11-2026",
             "user-agent": null
         }
     ]
