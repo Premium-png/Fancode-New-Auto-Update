@@ -1,14 +1,19 @@
 #EXTM3U
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Saturday, 28 November 2026 at 4:44:30 pm
-#EXTINF:-1 tvg-id="4250424" tvg-name="Sydney Sixers Women Vs Sydney Thunder Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250424_53125_ST-W_SS-W_fc-web_1793352702043.jpg" tvg-language="English" group-title="Cricket",ENG | Sydney Sixers Women Vs Sydney Thunder Women
-https://in-mc-vod.fancode.com/mumbai/4250424_english_hls_5f98ce686243433_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4251150" tvg-name="Venice Livewires Vs Napoli Knights" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Venice-Livewires-vs-Napoli-Knights_web.png" tvg-language="English" group-title="Cricket",ENG | Venice Livewires Vs Napoli Knights
-https://in-mc-vod.fancode.com/mumbai/4251150_english_hls_666ea1ad9275139_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4251057" tvg-name="Mi Emirates Vs Desert Vipers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251057_53162_MIE_DV_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Mi Emirates Vs Desert Vipers
-https://in-mc-vod.fancode.com/mumbai/4251057_english_hls_532c94c02873604_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4250913" tvg-name="Sohar Smashers Women Vs Ghubra Giants Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_7278.jpeg" tvg-language="English" group-title="Cricket",ENG | Sohar Smashers Women Vs Ghubra Giants Women
-https://in-mc-vod.fancode.com/mumbai/4250913_english_hls_5dc23e5c3848724_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139988" tvg-name="Day 2" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Moto-GP-Valencia_Web.jpg" tvg-language="English" group-title="MotoGP",ENG | Day 2
-https://in-mc-vod.fancode.com/mumbai/139988_english_hls_eced0baf6984020_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Sunday, 29 November 2026 at 12:09:37 am
+#EXTINF:-1 tvg-id="4251058" tvg-name="Gulf Giants Vs Dubai Capitals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4251058_53162_GG_DC_FC-APP.jpg" tvg-language="English" group-title="Cricket",ENG | Gulf Giants Vs Dubai Capitals
+https://in-mc-vod.fancode.com/mumbai/4251058_english_hls_eefd7de0ee19658_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4250973" tvg-name="Al Ahli Saudi Fc Vs Al Taawoun Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4250973_53025_AAS_ALTW_FC-App_1795077051519.png" tvg-language="English" group-title="Football",ENG | Al Ahli Saudi Fc Vs Al Taawoun Fc
+https://in-mc-vod.fancode.com/mumbai/4250973_english_hls_357cacc57522237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4251118" tvg-name="Eibar Vs Burgos Cf" tvg-logo="https://images.fancode.com/aig/match/v1795678540540/4251118_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="Football",ENG | Eibar Vs Burgos Cf
+https://in-mc-vod.fancode.com/mumbai/4251118_english_hls_b52a318e9f33808_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139525" tvg-name="Qualifying" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1-QATAR_fc-web_1795503370459.jpg" group-title="Formula 1",[DRM] ENG | Qualifying
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"uN5no3OJZi3iv5kVKCnUdg","kid":"kubIxGcpTfapZe8npL64-g","kty":"oct"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
+https://in-mc-flive.fancode.com/mumbai/139525_english_dash_36747_1drmta-di_h264/index.mpd
